@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8A8445AA-7CC5-4234-AF03-9C339C897251}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Microsoft_Login_Demo/Program.cs">
+    <Files>
+      <File FileName="Microsoft_Login_Demo/Program.cs" Line="12" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Microsoft_Login_Demo" expanded="True">
+            <Node name="Microsoft_Login_Demo" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Microsoft__Login__Demo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

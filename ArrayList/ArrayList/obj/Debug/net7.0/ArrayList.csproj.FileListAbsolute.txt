@@ -1,0 +1,15 @@
+/Users/aniket/Projects/ArrayList/ArrayList/bin/Debug/net7.0/ArrayList
+/Users/aniket/Projects/ArrayList/ArrayList/bin/Debug/net7.0/ArrayList.deps.json
+/Users/aniket/Projects/ArrayList/ArrayList/bin/Debug/net7.0/ArrayList.runtimeconfig.json
+/Users/aniket/Projects/ArrayList/ArrayList/bin/Debug/net7.0/ArrayList.dll
+/Users/aniket/Projects/ArrayList/ArrayList/bin/Debug/net7.0/ArrayList.pdb
+/Users/aniket/Projects/ArrayList/ArrayList/obj/Debug/net7.0/ArrayList.csproj.AssemblyReference.cache
+/Users/aniket/Projects/ArrayList/ArrayList/obj/Debug/net7.0/ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/ArrayList/ArrayList/obj/Debug/net7.0/ArrayList.AssemblyInfoInputs.cache
+/Users/aniket/Projects/ArrayList/ArrayList/obj/Debug/net7.0/ArrayList.AssemblyInfo.cs
+/Users/aniket/Projects/ArrayList/ArrayList/obj/Debug/net7.0/ArrayList.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/ArrayList/ArrayList/obj/Debug/net7.0/ArrayList.dll
+/Users/aniket/Projects/ArrayList/ArrayList/obj/Debug/net7.0/refint/ArrayList.dll
+/Users/aniket/Projects/ArrayList/ArrayList/obj/Debug/net7.0/ArrayList.pdb
+/Users/aniket/Projects/ArrayList/ArrayList/obj/Debug/net7.0/ArrayList.genruntimeconfig.cache
+/Users/aniket/Projects/ArrayList/ArrayList/obj/Debug/net7.0/ref/ArrayList.dll

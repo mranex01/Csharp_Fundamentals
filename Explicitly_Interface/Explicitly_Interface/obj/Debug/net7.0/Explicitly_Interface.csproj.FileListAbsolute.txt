@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Explicitly_Interface/Explicitly_Interface/bin/Debug/net7.0/Explicitly_Interface
+/Users/aniket/Projects/Explicitly_Interface/Explicitly_Interface/bin/Debug/net7.0/Explicitly_Interface.deps.json
+/Users/aniket/Projects/Explicitly_Interface/Explicitly_Interface/bin/Debug/net7.0/Explicitly_Interface.runtimeconfig.json
+/Users/aniket/Projects/Explicitly_Interface/Explicitly_Interface/bin/Debug/net7.0/Explicitly_Interface.dll
+/Users/aniket/Projects/Explicitly_Interface/Explicitly_Interface/bin/Debug/net7.0/Explicitly_Interface.pdb
+/Users/aniket/Projects/Explicitly_Interface/Explicitly_Interface/obj/Debug/net7.0/Explicitly_Interface.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Explicitly_Interface/Explicitly_Interface/obj/Debug/net7.0/Explicitly_Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Explicitly_Interface/Explicitly_Interface/obj/Debug/net7.0/Explicitly_Interface.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Explicitly_Interface/Explicitly_Interface/obj/Debug/net7.0/Explicitly_Interface.AssemblyInfo.cs
+/Users/aniket/Projects/Explicitly_Interface/Explicitly_Interface/obj/Debug/net7.0/Explicitly_Interface.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Explicitly_Interface/Explicitly_Interface/obj/Debug/net7.0/Explicitly_Interface.dll
+/Users/aniket/Projects/Explicitly_Interface/Explicitly_Interface/obj/Debug/net7.0/refint/Explicitly_Interface.dll
+/Users/aniket/Projects/Explicitly_Interface/Explicitly_Interface/obj/Debug/net7.0/Explicitly_Interface.pdb
+/Users/aniket/Projects/Explicitly_Interface/Explicitly_Interface/obj/Debug/net7.0/Explicitly_Interface.genruntimeconfig.cache
+/Users/aniket/Projects/Explicitly_Interface/Explicitly_Interface/obj/Debug/net7.0/ref/Explicitly_Interface.dll

@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Propertied_demo/Propertied_demo/bin/Debug/net7.0/Propertied_demo
+/Users/aniket/Projects/Propertied_demo/Propertied_demo/bin/Debug/net7.0/Propertied_demo.deps.json
+/Users/aniket/Projects/Propertied_demo/Propertied_demo/bin/Debug/net7.0/Propertied_demo.runtimeconfig.json
+/Users/aniket/Projects/Propertied_demo/Propertied_demo/bin/Debug/net7.0/Propertied_demo.dll
+/Users/aniket/Projects/Propertied_demo/Propertied_demo/bin/Debug/net7.0/Propertied_demo.pdb
+/Users/aniket/Projects/Propertied_demo/Propertied_demo/obj/Debug/net7.0/Propertied_demo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Propertied_demo/Propertied_demo/obj/Debug/net7.0/Propertied_demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Propertied_demo/Propertied_demo/obj/Debug/net7.0/Propertied_demo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Propertied_demo/Propertied_demo/obj/Debug/net7.0/Propertied_demo.AssemblyInfo.cs
+/Users/aniket/Projects/Propertied_demo/Propertied_demo/obj/Debug/net7.0/Propertied_demo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Propertied_demo/Propertied_demo/obj/Debug/net7.0/Propertied_demo.dll
+/Users/aniket/Projects/Propertied_demo/Propertied_demo/obj/Debug/net7.0/refint/Propertied_demo.dll
+/Users/aniket/Projects/Propertied_demo/Propertied_demo/obj/Debug/net7.0/Propertied_demo.pdb
+/Users/aniket/Projects/Propertied_demo/Propertied_demo/obj/Debug/net7.0/Propertied_demo.genruntimeconfig.cache
+/Users/aniket/Projects/Propertied_demo/Propertied_demo/obj/Debug/net7.0/ref/Propertied_demo.dll

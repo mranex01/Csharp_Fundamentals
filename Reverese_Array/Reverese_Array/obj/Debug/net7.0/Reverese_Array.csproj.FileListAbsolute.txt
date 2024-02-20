@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Reverese_Array/Reverese_Array/bin/Debug/net7.0/Reverese_Array
+/Users/aniket/Projects/Reverese_Array/Reverese_Array/bin/Debug/net7.0/Reverese_Array.deps.json
+/Users/aniket/Projects/Reverese_Array/Reverese_Array/bin/Debug/net7.0/Reverese_Array.runtimeconfig.json
+/Users/aniket/Projects/Reverese_Array/Reverese_Array/bin/Debug/net7.0/Reverese_Array.dll
+/Users/aniket/Projects/Reverese_Array/Reverese_Array/bin/Debug/net7.0/Reverese_Array.pdb
+/Users/aniket/Projects/Reverese_Array/Reverese_Array/obj/Debug/net7.0/Reverese_Array.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Reverese_Array/Reverese_Array/obj/Debug/net7.0/Reverese_Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Reverese_Array/Reverese_Array/obj/Debug/net7.0/Reverese_Array.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Reverese_Array/Reverese_Array/obj/Debug/net7.0/Reverese_Array.AssemblyInfo.cs
+/Users/aniket/Projects/Reverese_Array/Reverese_Array/obj/Debug/net7.0/Reverese_Array.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Reverese_Array/Reverese_Array/obj/Debug/net7.0/Reverese_Array.dll
+/Users/aniket/Projects/Reverese_Array/Reverese_Array/obj/Debug/net7.0/refint/Reverese_Array.dll
+/Users/aniket/Projects/Reverese_Array/Reverese_Array/obj/Debug/net7.0/Reverese_Array.pdb
+/Users/aniket/Projects/Reverese_Array/Reverese_Array/obj/Debug/net7.0/Reverese_Array.genruntimeconfig.cache
+/Users/aniket/Projects/Reverese_Array/Reverese_Array/obj/Debug/net7.0/ref/Reverese_Array.dll

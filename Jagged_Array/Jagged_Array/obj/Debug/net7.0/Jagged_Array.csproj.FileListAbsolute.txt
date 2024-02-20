@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Jagged_Array/Jagged_Array/bin/Debug/net7.0/Jagged_Array
+/Users/aniket/Projects/Jagged_Array/Jagged_Array/bin/Debug/net7.0/Jagged_Array.deps.json
+/Users/aniket/Projects/Jagged_Array/Jagged_Array/bin/Debug/net7.0/Jagged_Array.runtimeconfig.json
+/Users/aniket/Projects/Jagged_Array/Jagged_Array/bin/Debug/net7.0/Jagged_Array.dll
+/Users/aniket/Projects/Jagged_Array/Jagged_Array/bin/Debug/net7.0/Jagged_Array.pdb
+/Users/aniket/Projects/Jagged_Array/Jagged_Array/obj/Debug/net7.0/Jagged_Array.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Jagged_Array/Jagged_Array/obj/Debug/net7.0/Jagged_Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Jagged_Array/Jagged_Array/obj/Debug/net7.0/Jagged_Array.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Jagged_Array/Jagged_Array/obj/Debug/net7.0/Jagged_Array.AssemblyInfo.cs
+/Users/aniket/Projects/Jagged_Array/Jagged_Array/obj/Debug/net7.0/Jagged_Array.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Jagged_Array/Jagged_Array/obj/Debug/net7.0/Jagged_Array.dll
+/Users/aniket/Projects/Jagged_Array/Jagged_Array/obj/Debug/net7.0/refint/Jagged_Array.dll
+/Users/aniket/Projects/Jagged_Array/Jagged_Array/obj/Debug/net7.0/Jagged_Array.pdb
+/Users/aniket/Projects/Jagged_Array/Jagged_Array/obj/Debug/net7.0/Jagged_Array.genruntimeconfig.cache
+/Users/aniket/Projects/Jagged_Array/Jagged_Array/obj/Debug/net7.0/ref/Jagged_Array.dll

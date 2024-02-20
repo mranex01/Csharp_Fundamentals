@@ -1,0 +1,15 @@
+/Users/aniket/Projects/DateTime/DateTime/bin/Debug/net7.0/DateTime
+/Users/aniket/Projects/DateTime/DateTime/bin/Debug/net7.0/DateTime.deps.json
+/Users/aniket/Projects/DateTime/DateTime/bin/Debug/net7.0/DateTime.runtimeconfig.json
+/Users/aniket/Projects/DateTime/DateTime/bin/Debug/net7.0/DateTime.dll
+/Users/aniket/Projects/DateTime/DateTime/bin/Debug/net7.0/DateTime.pdb
+/Users/aniket/Projects/DateTime/DateTime/obj/Debug/net7.0/DateTime.csproj.AssemblyReference.cache
+/Users/aniket/Projects/DateTime/DateTime/obj/Debug/net7.0/DateTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/DateTime/DateTime/obj/Debug/net7.0/DateTime.AssemblyInfoInputs.cache
+/Users/aniket/Projects/DateTime/DateTime/obj/Debug/net7.0/DateTime.AssemblyInfo.cs
+/Users/aniket/Projects/DateTime/DateTime/obj/Debug/net7.0/DateTime.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/DateTime/DateTime/obj/Debug/net7.0/DateTime.dll
+/Users/aniket/Projects/DateTime/DateTime/obj/Debug/net7.0/refint/DateTime.dll
+/Users/aniket/Projects/DateTime/DateTime/obj/Debug/net7.0/DateTime.pdb
+/Users/aniket/Projects/DateTime/DateTime/obj/Debug/net7.0/DateTime.genruntimeconfig.cache
+/Users/aniket/Projects/DateTime/DateTime/obj/Debug/net7.0/ref/DateTime.dll

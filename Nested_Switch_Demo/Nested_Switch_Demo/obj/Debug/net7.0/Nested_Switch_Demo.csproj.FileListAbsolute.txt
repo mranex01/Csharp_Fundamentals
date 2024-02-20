@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Nested_Switch_Demo/Nested_Switch_Demo/obj/Debug/net7.0/Nested_Switch_Demo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Nested_Switch_Demo/Nested_Switch_Demo/obj/Debug/net7.0/Nested_Switch_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Nested_Switch_Demo/Nested_Switch_Demo/obj/Debug/net7.0/Nested_Switch_Demo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Nested_Switch_Demo/Nested_Switch_Demo/obj/Debug/net7.0/Nested_Switch_Demo.AssemblyInfo.cs
+/Users/aniket/Projects/Nested_Switch_Demo/Nested_Switch_Demo/obj/Debug/net7.0/Nested_Switch_Demo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Nested_Switch_Demo/Nested_Switch_Demo/bin/Debug/net7.0/Nested_Switch_Demo
+/Users/aniket/Projects/Nested_Switch_Demo/Nested_Switch_Demo/bin/Debug/net7.0/Nested_Switch_Demo.deps.json
+/Users/aniket/Projects/Nested_Switch_Demo/Nested_Switch_Demo/bin/Debug/net7.0/Nested_Switch_Demo.runtimeconfig.json
+/Users/aniket/Projects/Nested_Switch_Demo/Nested_Switch_Demo/bin/Debug/net7.0/Nested_Switch_Demo.dll
+/Users/aniket/Projects/Nested_Switch_Demo/Nested_Switch_Demo/bin/Debug/net7.0/Nested_Switch_Demo.pdb
+/Users/aniket/Projects/Nested_Switch_Demo/Nested_Switch_Demo/obj/Debug/net7.0/Nested_Switch_Demo.dll
+/Users/aniket/Projects/Nested_Switch_Demo/Nested_Switch_Demo/obj/Debug/net7.0/refint/Nested_Switch_Demo.dll
+/Users/aniket/Projects/Nested_Switch_Demo/Nested_Switch_Demo/obj/Debug/net7.0/Nested_Switch_Demo.pdb
+/Users/aniket/Projects/Nested_Switch_Demo/Nested_Switch_Demo/obj/Debug/net7.0/Nested_Switch_Demo.genruntimeconfig.cache
+/Users/aniket/Projects/Nested_Switch_Demo/Nested_Switch_Demo/obj/Debug/net7.0/ref/Nested_Switch_Demo.dll

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{02DBD443-EF1D-4A7B-9658-ACDA64701F53}|Default">
+  <MonoDevelop.Ide.ItemProperties.TableDemo__for PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TableDemo_for/Program.cs">
+    <Files>
+      <File FileName="TableDemo_for/Program.cs" Line="40" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TableDemo_for" expanded="True">
+            <Node name="TableDemo_for" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

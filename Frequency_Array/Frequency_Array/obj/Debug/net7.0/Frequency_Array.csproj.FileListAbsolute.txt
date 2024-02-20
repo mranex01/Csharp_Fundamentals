@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Frequency_Array/Frequency_Array/bin/Debug/net7.0/Frequency_Array
+/Users/aniket/Projects/Frequency_Array/Frequency_Array/bin/Debug/net7.0/Frequency_Array.deps.json
+/Users/aniket/Projects/Frequency_Array/Frequency_Array/bin/Debug/net7.0/Frequency_Array.runtimeconfig.json
+/Users/aniket/Projects/Frequency_Array/Frequency_Array/bin/Debug/net7.0/Frequency_Array.dll
+/Users/aniket/Projects/Frequency_Array/Frequency_Array/bin/Debug/net7.0/Frequency_Array.pdb
+/Users/aniket/Projects/Frequency_Array/Frequency_Array/obj/Debug/net7.0/Frequency_Array.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Frequency_Array/Frequency_Array/obj/Debug/net7.0/Frequency_Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Frequency_Array/Frequency_Array/obj/Debug/net7.0/Frequency_Array.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Frequency_Array/Frequency_Array/obj/Debug/net7.0/Frequency_Array.AssemblyInfo.cs
+/Users/aniket/Projects/Frequency_Array/Frequency_Array/obj/Debug/net7.0/Frequency_Array.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Frequency_Array/Frequency_Array/obj/Debug/net7.0/Frequency_Array.dll
+/Users/aniket/Projects/Frequency_Array/Frequency_Array/obj/Debug/net7.0/refint/Frequency_Array.dll
+/Users/aniket/Projects/Frequency_Array/Frequency_Array/obj/Debug/net7.0/Frequency_Array.pdb
+/Users/aniket/Projects/Frequency_Array/Frequency_Array/obj/Debug/net7.0/Frequency_Array.genruntimeconfig.cache
+/Users/aniket/Projects/Frequency_Array/Frequency_Array/obj/Debug/net7.0/ref/Frequency_Array.dll

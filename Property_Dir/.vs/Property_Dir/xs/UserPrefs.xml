@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{F0C3E93F-A1FD-462A-8BE9-3ECE0B9526B2}|Default">
+  <MonoDevelop.Ide.ItemProperties.Property__Dir PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Property_Dir/Program.cs">
+    <Files>
+      <File FileName="Property_Dir/Program.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Property_Dir" expanded="True">
+            <Node name="Property_Dir" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

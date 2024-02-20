@@ -1,0 +1,15 @@
+/Users/aniket/Projects/ClassEx/ClassEx/bin/Debug/net7.0/ClassEx
+/Users/aniket/Projects/ClassEx/ClassEx/bin/Debug/net7.0/ClassEx.deps.json
+/Users/aniket/Projects/ClassEx/ClassEx/bin/Debug/net7.0/ClassEx.runtimeconfig.json
+/Users/aniket/Projects/ClassEx/ClassEx/bin/Debug/net7.0/ClassEx.dll
+/Users/aniket/Projects/ClassEx/ClassEx/bin/Debug/net7.0/ClassEx.pdb
+/Users/aniket/Projects/ClassEx/ClassEx/obj/Debug/net7.0/ClassEx.csproj.AssemblyReference.cache
+/Users/aniket/Projects/ClassEx/ClassEx/obj/Debug/net7.0/ClassEx.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/ClassEx/ClassEx/obj/Debug/net7.0/ClassEx.AssemblyInfoInputs.cache
+/Users/aniket/Projects/ClassEx/ClassEx/obj/Debug/net7.0/ClassEx.AssemblyInfo.cs
+/Users/aniket/Projects/ClassEx/ClassEx/obj/Debug/net7.0/ClassEx.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/ClassEx/ClassEx/obj/Debug/net7.0/ClassEx.dll
+/Users/aniket/Projects/ClassEx/ClassEx/obj/Debug/net7.0/refint/ClassEx.dll
+/Users/aniket/Projects/ClassEx/ClassEx/obj/Debug/net7.0/ClassEx.pdb
+/Users/aniket/Projects/ClassEx/ClassEx/obj/Debug/net7.0/ClassEx.genruntimeconfig.cache
+/Users/aniket/Projects/ClassEx/ClassEx/obj/Debug/net7.0/ref/ClassEx.dll

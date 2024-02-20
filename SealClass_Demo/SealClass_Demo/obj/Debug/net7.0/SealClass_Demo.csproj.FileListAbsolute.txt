@@ -1,0 +1,15 @@
+/Users/aniket/Projects/SealClass_Demo/SealClass_Demo/bin/Debug/net7.0/SealClass_Demo
+/Users/aniket/Projects/SealClass_Demo/SealClass_Demo/bin/Debug/net7.0/SealClass_Demo.deps.json
+/Users/aniket/Projects/SealClass_Demo/SealClass_Demo/bin/Debug/net7.0/SealClass_Demo.runtimeconfig.json
+/Users/aniket/Projects/SealClass_Demo/SealClass_Demo/bin/Debug/net7.0/SealClass_Demo.dll
+/Users/aniket/Projects/SealClass_Demo/SealClass_Demo/bin/Debug/net7.0/SealClass_Demo.pdb
+/Users/aniket/Projects/SealClass_Demo/SealClass_Demo/obj/Debug/net7.0/SealClass_Demo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/SealClass_Demo/SealClass_Demo/obj/Debug/net7.0/SealClass_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/SealClass_Demo/SealClass_Demo/obj/Debug/net7.0/SealClass_Demo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/SealClass_Demo/SealClass_Demo/obj/Debug/net7.0/SealClass_Demo.AssemblyInfo.cs
+/Users/aniket/Projects/SealClass_Demo/SealClass_Demo/obj/Debug/net7.0/SealClass_Demo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/SealClass_Demo/SealClass_Demo/obj/Debug/net7.0/SealClass_Demo.dll
+/Users/aniket/Projects/SealClass_Demo/SealClass_Demo/obj/Debug/net7.0/refint/SealClass_Demo.dll
+/Users/aniket/Projects/SealClass_Demo/SealClass_Demo/obj/Debug/net7.0/SealClass_Demo.pdb
+/Users/aniket/Projects/SealClass_Demo/SealClass_Demo/obj/Debug/net7.0/SealClass_Demo.genruntimeconfig.cache
+/Users/aniket/Projects/SealClass_Demo/SealClass_Demo/obj/Debug/net7.0/ref/SealClass_Demo.dll

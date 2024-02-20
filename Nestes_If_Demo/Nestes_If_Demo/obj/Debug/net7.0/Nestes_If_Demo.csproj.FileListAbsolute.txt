@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Nestes_If_Demo/Nestes_If_Demo/bin/Debug/net7.0/Nestes_If_Demo
+/Users/aniket/Projects/Nestes_If_Demo/Nestes_If_Demo/bin/Debug/net7.0/Nestes_If_Demo.deps.json
+/Users/aniket/Projects/Nestes_If_Demo/Nestes_If_Demo/bin/Debug/net7.0/Nestes_If_Demo.runtimeconfig.json
+/Users/aniket/Projects/Nestes_If_Demo/Nestes_If_Demo/bin/Debug/net7.0/Nestes_If_Demo.dll
+/Users/aniket/Projects/Nestes_If_Demo/Nestes_If_Demo/bin/Debug/net7.0/Nestes_If_Demo.pdb
+/Users/aniket/Projects/Nestes_If_Demo/Nestes_If_Demo/obj/Debug/net7.0/Nestes_If_Demo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Nestes_If_Demo/Nestes_If_Demo/obj/Debug/net7.0/Nestes_If_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Nestes_If_Demo/Nestes_If_Demo/obj/Debug/net7.0/Nestes_If_Demo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Nestes_If_Demo/Nestes_If_Demo/obj/Debug/net7.0/Nestes_If_Demo.AssemblyInfo.cs
+/Users/aniket/Projects/Nestes_If_Demo/Nestes_If_Demo/obj/Debug/net7.0/Nestes_If_Demo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Nestes_If_Demo/Nestes_If_Demo/obj/Debug/net7.0/Nestes_If_Demo.dll
+/Users/aniket/Projects/Nestes_If_Demo/Nestes_If_Demo/obj/Debug/net7.0/refint/Nestes_If_Demo.dll
+/Users/aniket/Projects/Nestes_If_Demo/Nestes_If_Demo/obj/Debug/net7.0/Nestes_If_Demo.pdb
+/Users/aniket/Projects/Nestes_If_Demo/Nestes_If_Demo/obj/Debug/net7.0/Nestes_If_Demo.genruntimeconfig.cache
+/Users/aniket/Projects/Nestes_If_Demo/Nestes_If_Demo/obj/Debug/net7.0/ref/Nestes_If_Demo.dll

@@ -1,0 +1,15 @@
+/Users/aniket/Projects/SwitchDemo/SwitchDemo/bin/Debug/net7.0/SwitchDemo
+/Users/aniket/Projects/SwitchDemo/SwitchDemo/bin/Debug/net7.0/SwitchDemo.deps.json
+/Users/aniket/Projects/SwitchDemo/SwitchDemo/bin/Debug/net7.0/SwitchDemo.runtimeconfig.json
+/Users/aniket/Projects/SwitchDemo/SwitchDemo/bin/Debug/net7.0/SwitchDemo.dll
+/Users/aniket/Projects/SwitchDemo/SwitchDemo/bin/Debug/net7.0/SwitchDemo.pdb
+/Users/aniket/Projects/SwitchDemo/SwitchDemo/obj/Debug/net7.0/SwitchDemo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/SwitchDemo/SwitchDemo/obj/Debug/net7.0/SwitchDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/SwitchDemo/SwitchDemo/obj/Debug/net7.0/SwitchDemo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/SwitchDemo/SwitchDemo/obj/Debug/net7.0/SwitchDemo.AssemblyInfo.cs
+/Users/aniket/Projects/SwitchDemo/SwitchDemo/obj/Debug/net7.0/SwitchDemo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/SwitchDemo/SwitchDemo/obj/Debug/net7.0/SwitchDemo.dll
+/Users/aniket/Projects/SwitchDemo/SwitchDemo/obj/Debug/net7.0/refint/SwitchDemo.dll
+/Users/aniket/Projects/SwitchDemo/SwitchDemo/obj/Debug/net7.0/SwitchDemo.pdb
+/Users/aniket/Projects/SwitchDemo/SwitchDemo/obj/Debug/net7.0/SwitchDemo.genruntimeconfig.cache
+/Users/aniket/Projects/SwitchDemo/SwitchDemo/obj/Debug/net7.0/ref/SwitchDemo.dll

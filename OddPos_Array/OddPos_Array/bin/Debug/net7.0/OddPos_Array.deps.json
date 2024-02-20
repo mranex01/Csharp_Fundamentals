@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "OddPos_Array/1.0.0": {
+        "runtime": {
+          "OddPos_Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OddPos_Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

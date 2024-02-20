@@ -1,0 +1,15 @@
+/Users/aniket/Projects/EvenPos/EvenPos/bin/Debug/net7.0/EvenPos
+/Users/aniket/Projects/EvenPos/EvenPos/bin/Debug/net7.0/EvenPos.deps.json
+/Users/aniket/Projects/EvenPos/EvenPos/bin/Debug/net7.0/EvenPos.runtimeconfig.json
+/Users/aniket/Projects/EvenPos/EvenPos/bin/Debug/net7.0/EvenPos.dll
+/Users/aniket/Projects/EvenPos/EvenPos/bin/Debug/net7.0/EvenPos.pdb
+/Users/aniket/Projects/EvenPos/EvenPos/obj/Debug/net7.0/EvenPos.csproj.AssemblyReference.cache
+/Users/aniket/Projects/EvenPos/EvenPos/obj/Debug/net7.0/EvenPos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/EvenPos/EvenPos/obj/Debug/net7.0/EvenPos.AssemblyInfoInputs.cache
+/Users/aniket/Projects/EvenPos/EvenPos/obj/Debug/net7.0/EvenPos.AssemblyInfo.cs
+/Users/aniket/Projects/EvenPos/EvenPos/obj/Debug/net7.0/EvenPos.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/EvenPos/EvenPos/obj/Debug/net7.0/EvenPos.dll
+/Users/aniket/Projects/EvenPos/EvenPos/obj/Debug/net7.0/refint/EvenPos.dll
+/Users/aniket/Projects/EvenPos/EvenPos/obj/Debug/net7.0/EvenPos.pdb
+/Users/aniket/Projects/EvenPos/EvenPos/obj/Debug/net7.0/EvenPos.genruntimeconfig.cache
+/Users/aniket/Projects/EvenPos/EvenPos/obj/Debug/net7.0/ref/EvenPos.dll

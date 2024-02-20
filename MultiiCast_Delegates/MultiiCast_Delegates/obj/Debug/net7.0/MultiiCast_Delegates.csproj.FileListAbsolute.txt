@@ -1,0 +1,15 @@
+/Users/aniket/Projects/MultiiCast_Delegates/MultiiCast_Delegates/bin/Debug/net7.0/MultiiCast_Delegates
+/Users/aniket/Projects/MultiiCast_Delegates/MultiiCast_Delegates/bin/Debug/net7.0/MultiiCast_Delegates.deps.json
+/Users/aniket/Projects/MultiiCast_Delegates/MultiiCast_Delegates/bin/Debug/net7.0/MultiiCast_Delegates.runtimeconfig.json
+/Users/aniket/Projects/MultiiCast_Delegates/MultiiCast_Delegates/bin/Debug/net7.0/MultiiCast_Delegates.dll
+/Users/aniket/Projects/MultiiCast_Delegates/MultiiCast_Delegates/bin/Debug/net7.0/MultiiCast_Delegates.pdb
+/Users/aniket/Projects/MultiiCast_Delegates/MultiiCast_Delegates/obj/Debug/net7.0/MultiiCast_Delegates.csproj.AssemblyReference.cache
+/Users/aniket/Projects/MultiiCast_Delegates/MultiiCast_Delegates/obj/Debug/net7.0/MultiiCast_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/MultiiCast_Delegates/MultiiCast_Delegates/obj/Debug/net7.0/MultiiCast_Delegates.AssemblyInfoInputs.cache
+/Users/aniket/Projects/MultiiCast_Delegates/MultiiCast_Delegates/obj/Debug/net7.0/MultiiCast_Delegates.AssemblyInfo.cs
+/Users/aniket/Projects/MultiiCast_Delegates/MultiiCast_Delegates/obj/Debug/net7.0/MultiiCast_Delegates.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/MultiiCast_Delegates/MultiiCast_Delegates/obj/Debug/net7.0/MultiiCast_Delegates.dll
+/Users/aniket/Projects/MultiiCast_Delegates/MultiiCast_Delegates/obj/Debug/net7.0/refint/MultiiCast_Delegates.dll
+/Users/aniket/Projects/MultiiCast_Delegates/MultiiCast_Delegates/obj/Debug/net7.0/MultiiCast_Delegates.pdb
+/Users/aniket/Projects/MultiiCast_Delegates/MultiiCast_Delegates/obj/Debug/net7.0/MultiiCast_Delegates.genruntimeconfig.cache
+/Users/aniket/Projects/MultiiCast_Delegates/MultiiCast_Delegates/obj/Debug/net7.0/ref/MultiiCast_Delegates.dll

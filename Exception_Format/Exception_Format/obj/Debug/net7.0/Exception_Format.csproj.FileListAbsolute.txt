@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Exception_Format/Exception_Format/bin/Debug/net7.0/Exception_Format
+/Users/aniket/Projects/Exception_Format/Exception_Format/bin/Debug/net7.0/Exception_Format.deps.json
+/Users/aniket/Projects/Exception_Format/Exception_Format/bin/Debug/net7.0/Exception_Format.runtimeconfig.json
+/Users/aniket/Projects/Exception_Format/Exception_Format/bin/Debug/net7.0/Exception_Format.dll
+/Users/aniket/Projects/Exception_Format/Exception_Format/bin/Debug/net7.0/Exception_Format.pdb
+/Users/aniket/Projects/Exception_Format/Exception_Format/obj/Debug/net7.0/Exception_Format.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Exception_Format/Exception_Format/obj/Debug/net7.0/Exception_Format.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Exception_Format/Exception_Format/obj/Debug/net7.0/Exception_Format.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Exception_Format/Exception_Format/obj/Debug/net7.0/Exception_Format.AssemblyInfo.cs
+/Users/aniket/Projects/Exception_Format/Exception_Format/obj/Debug/net7.0/Exception_Format.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Exception_Format/Exception_Format/obj/Debug/net7.0/Exception_Format.dll
+/Users/aniket/Projects/Exception_Format/Exception_Format/obj/Debug/net7.0/refint/Exception_Format.dll
+/Users/aniket/Projects/Exception_Format/Exception_Format/obj/Debug/net7.0/Exception_Format.pdb
+/Users/aniket/Projects/Exception_Format/Exception_Format/obj/Debug/net7.0/Exception_Format.genruntimeconfig.cache
+/Users/aniket/Projects/Exception_Format/Exception_Format/obj/Debug/net7.0/ref/Exception_Format.dll

@@ -1,0 +1,15 @@
+/Users/aniket/Projects/CopyArray/CopyArray/bin/Debug/net7.0/CopyArray
+/Users/aniket/Projects/CopyArray/CopyArray/bin/Debug/net7.0/CopyArray.deps.json
+/Users/aniket/Projects/CopyArray/CopyArray/bin/Debug/net7.0/CopyArray.runtimeconfig.json
+/Users/aniket/Projects/CopyArray/CopyArray/bin/Debug/net7.0/CopyArray.dll
+/Users/aniket/Projects/CopyArray/CopyArray/bin/Debug/net7.0/CopyArray.pdb
+/Users/aniket/Projects/CopyArray/CopyArray/obj/Debug/net7.0/CopyArray.csproj.AssemblyReference.cache
+/Users/aniket/Projects/CopyArray/CopyArray/obj/Debug/net7.0/CopyArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/CopyArray/CopyArray/obj/Debug/net7.0/CopyArray.AssemblyInfoInputs.cache
+/Users/aniket/Projects/CopyArray/CopyArray/obj/Debug/net7.0/CopyArray.AssemblyInfo.cs
+/Users/aniket/Projects/CopyArray/CopyArray/obj/Debug/net7.0/CopyArray.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/CopyArray/CopyArray/obj/Debug/net7.0/CopyArray.dll
+/Users/aniket/Projects/CopyArray/CopyArray/obj/Debug/net7.0/refint/CopyArray.dll
+/Users/aniket/Projects/CopyArray/CopyArray/obj/Debug/net7.0/CopyArray.pdb
+/Users/aniket/Projects/CopyArray/CopyArray/obj/Debug/net7.0/CopyArray.genruntimeconfig.cache
+/Users/aniket/Projects/CopyArray/CopyArray/obj/Debug/net7.0/ref/CopyArray.dll

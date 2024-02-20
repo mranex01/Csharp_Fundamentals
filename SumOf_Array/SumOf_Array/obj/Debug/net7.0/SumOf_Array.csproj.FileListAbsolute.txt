@@ -1,0 +1,15 @@
+/Users/aniket/Projects/SumOf_Array/SumOf_Array/bin/Debug/net7.0/SumOf_Array
+/Users/aniket/Projects/SumOf_Array/SumOf_Array/bin/Debug/net7.0/SumOf_Array.deps.json
+/Users/aniket/Projects/SumOf_Array/SumOf_Array/bin/Debug/net7.0/SumOf_Array.runtimeconfig.json
+/Users/aniket/Projects/SumOf_Array/SumOf_Array/bin/Debug/net7.0/SumOf_Array.dll
+/Users/aniket/Projects/SumOf_Array/SumOf_Array/bin/Debug/net7.0/SumOf_Array.pdb
+/Users/aniket/Projects/SumOf_Array/SumOf_Array/obj/Debug/net7.0/SumOf_Array.csproj.AssemblyReference.cache
+/Users/aniket/Projects/SumOf_Array/SumOf_Array/obj/Debug/net7.0/SumOf_Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/SumOf_Array/SumOf_Array/obj/Debug/net7.0/SumOf_Array.AssemblyInfoInputs.cache
+/Users/aniket/Projects/SumOf_Array/SumOf_Array/obj/Debug/net7.0/SumOf_Array.AssemblyInfo.cs
+/Users/aniket/Projects/SumOf_Array/SumOf_Array/obj/Debug/net7.0/SumOf_Array.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/SumOf_Array/SumOf_Array/obj/Debug/net7.0/SumOf_Array.dll
+/Users/aniket/Projects/SumOf_Array/SumOf_Array/obj/Debug/net7.0/refint/SumOf_Array.dll
+/Users/aniket/Projects/SumOf_Array/SumOf_Array/obj/Debug/net7.0/SumOf_Array.pdb
+/Users/aniket/Projects/SumOf_Array/SumOf_Array/obj/Debug/net7.0/SumOf_Array.genruntimeconfig.cache
+/Users/aniket/Projects/SumOf_Array/SumOf_Array/obj/Debug/net7.0/ref/SumOf_Array.dll

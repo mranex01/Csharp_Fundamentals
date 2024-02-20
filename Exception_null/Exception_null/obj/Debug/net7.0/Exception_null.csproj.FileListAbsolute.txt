@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Exception_null/Exception_null/bin/Debug/net7.0/Exception_null
+/Users/aniket/Projects/Exception_null/Exception_null/bin/Debug/net7.0/Exception_null.deps.json
+/Users/aniket/Projects/Exception_null/Exception_null/bin/Debug/net7.0/Exception_null.runtimeconfig.json
+/Users/aniket/Projects/Exception_null/Exception_null/bin/Debug/net7.0/Exception_null.dll
+/Users/aniket/Projects/Exception_null/Exception_null/bin/Debug/net7.0/Exception_null.pdb
+/Users/aniket/Projects/Exception_null/Exception_null/obj/Debug/net7.0/Exception_null.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Exception_null/Exception_null/obj/Debug/net7.0/Exception_null.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Exception_null/Exception_null/obj/Debug/net7.0/Exception_null.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Exception_null/Exception_null/obj/Debug/net7.0/Exception_null.AssemblyInfo.cs
+/Users/aniket/Projects/Exception_null/Exception_null/obj/Debug/net7.0/Exception_null.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Exception_null/Exception_null/obj/Debug/net7.0/Exception_null.dll
+/Users/aniket/Projects/Exception_null/Exception_null/obj/Debug/net7.0/refint/Exception_null.dll
+/Users/aniket/Projects/Exception_null/Exception_null/obj/Debug/net7.0/Exception_null.pdb
+/Users/aniket/Projects/Exception_null/Exception_null/obj/Debug/net7.0/Exception_null.genruntimeconfig.cache
+/Users/aniket/Projects/Exception_null/Exception_null/obj/Debug/net7.0/ref/Exception_null.dll

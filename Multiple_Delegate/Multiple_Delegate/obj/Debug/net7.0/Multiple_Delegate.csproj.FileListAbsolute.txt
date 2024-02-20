@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Multiple_Delegate/Multiple_Delegate/bin/Debug/net7.0/Multiple_Delegate
+/Users/aniket/Projects/Multiple_Delegate/Multiple_Delegate/bin/Debug/net7.0/Multiple_Delegate.deps.json
+/Users/aniket/Projects/Multiple_Delegate/Multiple_Delegate/bin/Debug/net7.0/Multiple_Delegate.runtimeconfig.json
+/Users/aniket/Projects/Multiple_Delegate/Multiple_Delegate/bin/Debug/net7.0/Multiple_Delegate.dll
+/Users/aniket/Projects/Multiple_Delegate/Multiple_Delegate/bin/Debug/net7.0/Multiple_Delegate.pdb
+/Users/aniket/Projects/Multiple_Delegate/Multiple_Delegate/obj/Debug/net7.0/Multiple_Delegate.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Multiple_Delegate/Multiple_Delegate/obj/Debug/net7.0/Multiple_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Multiple_Delegate/Multiple_Delegate/obj/Debug/net7.0/Multiple_Delegate.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Multiple_Delegate/Multiple_Delegate/obj/Debug/net7.0/Multiple_Delegate.AssemblyInfo.cs
+/Users/aniket/Projects/Multiple_Delegate/Multiple_Delegate/obj/Debug/net7.0/Multiple_Delegate.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Multiple_Delegate/Multiple_Delegate/obj/Debug/net7.0/Multiple_Delegate.dll
+/Users/aniket/Projects/Multiple_Delegate/Multiple_Delegate/obj/Debug/net7.0/refint/Multiple_Delegate.dll
+/Users/aniket/Projects/Multiple_Delegate/Multiple_Delegate/obj/Debug/net7.0/Multiple_Delegate.pdb
+/Users/aniket/Projects/Multiple_Delegate/Multiple_Delegate/obj/Debug/net7.0/Multiple_Delegate.genruntimeconfig.cache
+/Users/aniket/Projects/Multiple_Delegate/Multiple_Delegate/obj/Debug/net7.0/ref/Multiple_Delegate.dll

@@ -1,0 +1,15 @@
+/Users/aniket/Projects/ListSort/ListSort/bin/Debug/net7.0/ListSort
+/Users/aniket/Projects/ListSort/ListSort/bin/Debug/net7.0/ListSort.deps.json
+/Users/aniket/Projects/ListSort/ListSort/bin/Debug/net7.0/ListSort.runtimeconfig.json
+/Users/aniket/Projects/ListSort/ListSort/bin/Debug/net7.0/ListSort.dll
+/Users/aniket/Projects/ListSort/ListSort/bin/Debug/net7.0/ListSort.pdb
+/Users/aniket/Projects/ListSort/ListSort/obj/Debug/net7.0/ListSort.csproj.AssemblyReference.cache
+/Users/aniket/Projects/ListSort/ListSort/obj/Debug/net7.0/ListSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/ListSort/ListSort/obj/Debug/net7.0/ListSort.AssemblyInfoInputs.cache
+/Users/aniket/Projects/ListSort/ListSort/obj/Debug/net7.0/ListSort.AssemblyInfo.cs
+/Users/aniket/Projects/ListSort/ListSort/obj/Debug/net7.0/ListSort.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/ListSort/ListSort/obj/Debug/net7.0/ListSort.dll
+/Users/aniket/Projects/ListSort/ListSort/obj/Debug/net7.0/refint/ListSort.dll
+/Users/aniket/Projects/ListSort/ListSort/obj/Debug/net7.0/ListSort.pdb
+/Users/aniket/Projects/ListSort/ListSort/obj/Debug/net7.0/ListSort.genruntimeconfig.cache
+/Users/aniket/Projects/ListSort/ListSort/obj/Debug/net7.0/ref/ListSort.dll

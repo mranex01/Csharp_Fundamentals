@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Array/Array/bin/Debug/net7.0/Array_foreach
+/Users/aniket/Projects/Array/Array/bin/Debug/net7.0/Array_foreach.deps.json
+/Users/aniket/Projects/Array/Array/bin/Debug/net7.0/Array_foreach.runtimeconfig.json
+/Users/aniket/Projects/Array/Array/bin/Debug/net7.0/Array_foreach.dll
+/Users/aniket/Projects/Array/Array/bin/Debug/net7.0/Array_foreach.pdb
+/Users/aniket/Projects/Array/Array/obj/Debug/net7.0/Array_foreach.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Array/Array/obj/Debug/net7.0/Array_foreach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Array/Array/obj/Debug/net7.0/Array_foreach.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Array/Array/obj/Debug/net7.0/Array_foreach.AssemblyInfo.cs
+/Users/aniket/Projects/Array/Array/obj/Debug/net7.0/Array_foreach.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Array/Array/obj/Debug/net7.0/Array_foreach.dll
+/Users/aniket/Projects/Array/Array/obj/Debug/net7.0/refint/Array_foreach.dll
+/Users/aniket/Projects/Array/Array/obj/Debug/net7.0/Array_foreach.pdb
+/Users/aniket/Projects/Array/Array/obj/Debug/net7.0/Array_foreach.genruntimeconfig.cache
+/Users/aniket/Projects/Array/Array/obj/Debug/net7.0/ref/Array_foreach.dll

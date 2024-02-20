@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Lambda_Expression/1.0.0": {
+        "runtime": {
+          "Lambda_Expression.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lambda_Expression/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

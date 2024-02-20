@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Multilevel_inher/Multilevel_inher/bin/Debug/net7.0/Multilevel_inher
+/Users/aniket/Projects/Multilevel_inher/Multilevel_inher/bin/Debug/net7.0/Multilevel_inher.deps.json
+/Users/aniket/Projects/Multilevel_inher/Multilevel_inher/bin/Debug/net7.0/Multilevel_inher.runtimeconfig.json
+/Users/aniket/Projects/Multilevel_inher/Multilevel_inher/bin/Debug/net7.0/Multilevel_inher.dll
+/Users/aniket/Projects/Multilevel_inher/Multilevel_inher/bin/Debug/net7.0/Multilevel_inher.pdb
+/Users/aniket/Projects/Multilevel_inher/Multilevel_inher/obj/Debug/net7.0/Multilevel_inher.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Multilevel_inher/Multilevel_inher/obj/Debug/net7.0/Multilevel_inher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Multilevel_inher/Multilevel_inher/obj/Debug/net7.0/Multilevel_inher.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Multilevel_inher/Multilevel_inher/obj/Debug/net7.0/Multilevel_inher.AssemblyInfo.cs
+/Users/aniket/Projects/Multilevel_inher/Multilevel_inher/obj/Debug/net7.0/Multilevel_inher.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Multilevel_inher/Multilevel_inher/obj/Debug/net7.0/Multilevel_inher.dll
+/Users/aniket/Projects/Multilevel_inher/Multilevel_inher/obj/Debug/net7.0/refint/Multilevel_inher.dll
+/Users/aniket/Projects/Multilevel_inher/Multilevel_inher/obj/Debug/net7.0/Multilevel_inher.pdb
+/Users/aniket/Projects/Multilevel_inher/Multilevel_inher/obj/Debug/net7.0/Multilevel_inher.genruntimeconfig.cache
+/Users/aniket/Projects/Multilevel_inher/Multilevel_inher/obj/Debug/net7.0/ref/Multilevel_inher.dll

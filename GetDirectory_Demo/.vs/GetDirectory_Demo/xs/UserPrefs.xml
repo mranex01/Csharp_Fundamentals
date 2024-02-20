@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6CCE687E-9D26-4569-8E78-A21EA915D161}|Default">
+  <MonoDevelop.Ide.ItemProperties.GetDirectory__Demo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GetDirectory_Demo/Program.cs">
+    <Files>
+      <File FileName="GetDirectory_Demo/Program.cs" Line="14" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GetDirectory_Demo" expanded="True">
+            <Node name="GetDirectory_Demo" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

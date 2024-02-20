@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{734CAB8D-AE11-4C2C-AC92-3C26F9F2017F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ascending_Array/Program.cs">
+    <Files>
+      <File FileName="Ascending_Array/Program.cs" Line="25" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ascending_Array" expanded="True">
+            <Node name="Ascending_Array" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Ascending__Array PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

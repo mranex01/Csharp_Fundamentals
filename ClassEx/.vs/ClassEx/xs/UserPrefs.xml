@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{52DF77EE-2473-4DA8-A7B8-E6EDE420EE56}|Default">
+  <MonoDevelop.Ide.ItemProperties.ClassEx PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassEx/Program.cs">
+    <Files>
+      <File FileName="ClassEx/Program.cs" Line="18" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClassEx" expanded="True">
+            <Node name="ClassEx" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Anonymous_Function/Anonymous_Function/bin/Debug/net7.0/Anonymous_Function
+/Users/aniket/Projects/Anonymous_Function/Anonymous_Function/bin/Debug/net7.0/Anonymous_Function.deps.json
+/Users/aniket/Projects/Anonymous_Function/Anonymous_Function/bin/Debug/net7.0/Anonymous_Function.runtimeconfig.json
+/Users/aniket/Projects/Anonymous_Function/Anonymous_Function/bin/Debug/net7.0/Anonymous_Function.dll
+/Users/aniket/Projects/Anonymous_Function/Anonymous_Function/bin/Debug/net7.0/Anonymous_Function.pdb
+/Users/aniket/Projects/Anonymous_Function/Anonymous_Function/obj/Debug/net7.0/Anonymous_Function.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Anonymous_Function/Anonymous_Function/obj/Debug/net7.0/Anonymous_Function.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Anonymous_Function/Anonymous_Function/obj/Debug/net7.0/Anonymous_Function.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Anonymous_Function/Anonymous_Function/obj/Debug/net7.0/Anonymous_Function.AssemblyInfo.cs
+/Users/aniket/Projects/Anonymous_Function/Anonymous_Function/obj/Debug/net7.0/Anonymous_Function.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Anonymous_Function/Anonymous_Function/obj/Debug/net7.0/Anonymous_Function.dll
+/Users/aniket/Projects/Anonymous_Function/Anonymous_Function/obj/Debug/net7.0/refint/Anonymous_Function.dll
+/Users/aniket/Projects/Anonymous_Function/Anonymous_Function/obj/Debug/net7.0/Anonymous_Function.pdb
+/Users/aniket/Projects/Anonymous_Function/Anonymous_Function/obj/Debug/net7.0/Anonymous_Function.genruntimeconfig.cache
+/Users/aniket/Projects/Anonymous_Function/Anonymous_Function/obj/Debug/net7.0/ref/Anonymous_Function.dll

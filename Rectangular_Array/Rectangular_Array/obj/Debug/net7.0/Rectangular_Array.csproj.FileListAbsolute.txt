@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Rectangular_Array/Rectangular_Array/bin/Debug/net7.0/Rectangular_Array
+/Users/aniket/Projects/Rectangular_Array/Rectangular_Array/bin/Debug/net7.0/Rectangular_Array.deps.json
+/Users/aniket/Projects/Rectangular_Array/Rectangular_Array/bin/Debug/net7.0/Rectangular_Array.runtimeconfig.json
+/Users/aniket/Projects/Rectangular_Array/Rectangular_Array/bin/Debug/net7.0/Rectangular_Array.dll
+/Users/aniket/Projects/Rectangular_Array/Rectangular_Array/bin/Debug/net7.0/Rectangular_Array.pdb
+/Users/aniket/Projects/Rectangular_Array/Rectangular_Array/obj/Debug/net7.0/Rectangular_Array.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Rectangular_Array/Rectangular_Array/obj/Debug/net7.0/Rectangular_Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Rectangular_Array/Rectangular_Array/obj/Debug/net7.0/Rectangular_Array.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Rectangular_Array/Rectangular_Array/obj/Debug/net7.0/Rectangular_Array.AssemblyInfo.cs
+/Users/aniket/Projects/Rectangular_Array/Rectangular_Array/obj/Debug/net7.0/Rectangular_Array.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Rectangular_Array/Rectangular_Array/obj/Debug/net7.0/Rectangular_Array.dll
+/Users/aniket/Projects/Rectangular_Array/Rectangular_Array/obj/Debug/net7.0/refint/Rectangular_Array.dll
+/Users/aniket/Projects/Rectangular_Array/Rectangular_Array/obj/Debug/net7.0/Rectangular_Array.pdb
+/Users/aniket/Projects/Rectangular_Array/Rectangular_Array/obj/Debug/net7.0/Rectangular_Array.genruntimeconfig.cache
+/Users/aniket/Projects/Rectangular_Array/Rectangular_Array/obj/Debug/net7.0/ref/Rectangular_Array.dll

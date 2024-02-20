@@ -1,0 +1,15 @@
+/Users/aniket/Projects/FileMode_Demo/FileMode_Demo/obj/Debug/net7.0/FileMode_Demo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/FileMode_Demo/FileMode_Demo/obj/Debug/net7.0/FileMode_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/FileMode_Demo/FileMode_Demo/obj/Debug/net7.0/FileMode_Demo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/FileMode_Demo/FileMode_Demo/obj/Debug/net7.0/FileMode_Demo.AssemblyInfo.cs
+/Users/aniket/Projects/FileMode_Demo/FileMode_Demo/obj/Debug/net7.0/FileMode_Demo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/FileMode_Demo/FileMode_Demo/bin/Debug/net7.0/FileMode_Demo
+/Users/aniket/Projects/FileMode_Demo/FileMode_Demo/bin/Debug/net7.0/FileMode_Demo.deps.json
+/Users/aniket/Projects/FileMode_Demo/FileMode_Demo/bin/Debug/net7.0/FileMode_Demo.runtimeconfig.json
+/Users/aniket/Projects/FileMode_Demo/FileMode_Demo/bin/Debug/net7.0/FileMode_Demo.dll
+/Users/aniket/Projects/FileMode_Demo/FileMode_Demo/bin/Debug/net7.0/FileMode_Demo.pdb
+/Users/aniket/Projects/FileMode_Demo/FileMode_Demo/obj/Debug/net7.0/FileMode_Demo.dll
+/Users/aniket/Projects/FileMode_Demo/FileMode_Demo/obj/Debug/net7.0/refint/FileMode_Demo.dll
+/Users/aniket/Projects/FileMode_Demo/FileMode_Demo/obj/Debug/net7.0/FileMode_Demo.pdb
+/Users/aniket/Projects/FileMode_Demo/FileMode_Demo/obj/Debug/net7.0/FileMode_Demo.genruntimeconfig.cache
+/Users/aniket/Projects/FileMode_Demo/FileMode_Demo/obj/Debug/net7.0/ref/FileMode_Demo.dll

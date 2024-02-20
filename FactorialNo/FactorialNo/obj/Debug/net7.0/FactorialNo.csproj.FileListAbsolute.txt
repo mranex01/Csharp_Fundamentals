@@ -1,0 +1,15 @@
+/Users/aniket/Projects/FactorialNo/FactorialNo/bin/Debug/net7.0/FactorialNo
+/Users/aniket/Projects/FactorialNo/FactorialNo/bin/Debug/net7.0/FactorialNo.deps.json
+/Users/aniket/Projects/FactorialNo/FactorialNo/bin/Debug/net7.0/FactorialNo.runtimeconfig.json
+/Users/aniket/Projects/FactorialNo/FactorialNo/bin/Debug/net7.0/FactorialNo.dll
+/Users/aniket/Projects/FactorialNo/FactorialNo/bin/Debug/net7.0/FactorialNo.pdb
+/Users/aniket/Projects/FactorialNo/FactorialNo/obj/Debug/net7.0/FactorialNo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/FactorialNo/FactorialNo/obj/Debug/net7.0/FactorialNo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/FactorialNo/FactorialNo/obj/Debug/net7.0/FactorialNo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/FactorialNo/FactorialNo/obj/Debug/net7.0/FactorialNo.AssemblyInfo.cs
+/Users/aniket/Projects/FactorialNo/FactorialNo/obj/Debug/net7.0/FactorialNo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/FactorialNo/FactorialNo/obj/Debug/net7.0/FactorialNo.dll
+/Users/aniket/Projects/FactorialNo/FactorialNo/obj/Debug/net7.0/refint/FactorialNo.dll
+/Users/aniket/Projects/FactorialNo/FactorialNo/obj/Debug/net7.0/FactorialNo.pdb
+/Users/aniket/Projects/FactorialNo/FactorialNo/obj/Debug/net7.0/FactorialNo.genruntimeconfig.cache
+/Users/aniket/Projects/FactorialNo/FactorialNo/obj/Debug/net7.0/ref/FactorialNo.dll

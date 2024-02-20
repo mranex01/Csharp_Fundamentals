@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Interface_demo/Interface_demo/bin/Debug/net7.0/Interface_demo
+/Users/aniket/Projects/Interface_demo/Interface_demo/bin/Debug/net7.0/Interface_demo.deps.json
+/Users/aniket/Projects/Interface_demo/Interface_demo/bin/Debug/net7.0/Interface_demo.runtimeconfig.json
+/Users/aniket/Projects/Interface_demo/Interface_demo/bin/Debug/net7.0/Interface_demo.dll
+/Users/aniket/Projects/Interface_demo/Interface_demo/bin/Debug/net7.0/Interface_demo.pdb
+/Users/aniket/Projects/Interface_demo/Interface_demo/obj/Debug/net7.0/Interface_demo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Interface_demo/Interface_demo/obj/Debug/net7.0/Interface_demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Interface_demo/Interface_demo/obj/Debug/net7.0/Interface_demo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Interface_demo/Interface_demo/obj/Debug/net7.0/Interface_demo.AssemblyInfo.cs
+/Users/aniket/Projects/Interface_demo/Interface_demo/obj/Debug/net7.0/Interface_demo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Interface_demo/Interface_demo/obj/Debug/net7.0/Interface_demo.dll
+/Users/aniket/Projects/Interface_demo/Interface_demo/obj/Debug/net7.0/refint/Interface_demo.dll
+/Users/aniket/Projects/Interface_demo/Interface_demo/obj/Debug/net7.0/Interface_demo.pdb
+/Users/aniket/Projects/Interface_demo/Interface_demo/obj/Debug/net7.0/Interface_demo.genruntimeconfig.cache
+/Users/aniket/Projects/Interface_demo/Interface_demo/obj/Debug/net7.0/ref/Interface_demo.dll

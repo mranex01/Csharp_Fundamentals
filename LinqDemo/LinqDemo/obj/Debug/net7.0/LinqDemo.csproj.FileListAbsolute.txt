@@ -1,0 +1,15 @@
+/Users/aniket/Projects/LinqDemo/LinqDemo/bin/Debug/net7.0/LinqDemo
+/Users/aniket/Projects/LinqDemo/LinqDemo/bin/Debug/net7.0/LinqDemo.deps.json
+/Users/aniket/Projects/LinqDemo/LinqDemo/bin/Debug/net7.0/LinqDemo.runtimeconfig.json
+/Users/aniket/Projects/LinqDemo/LinqDemo/bin/Debug/net7.0/LinqDemo.dll
+/Users/aniket/Projects/LinqDemo/LinqDemo/bin/Debug/net7.0/LinqDemo.pdb
+/Users/aniket/Projects/LinqDemo/LinqDemo/obj/Debug/net7.0/LinqDemo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/LinqDemo/LinqDemo/obj/Debug/net7.0/LinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/LinqDemo/LinqDemo/obj/Debug/net7.0/LinqDemo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/LinqDemo/LinqDemo/obj/Debug/net7.0/LinqDemo.AssemblyInfo.cs
+/Users/aniket/Projects/LinqDemo/LinqDemo/obj/Debug/net7.0/LinqDemo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/LinqDemo/LinqDemo/obj/Debug/net7.0/LinqDemo.dll
+/Users/aniket/Projects/LinqDemo/LinqDemo/obj/Debug/net7.0/refint/LinqDemo.dll
+/Users/aniket/Projects/LinqDemo/LinqDemo/obj/Debug/net7.0/LinqDemo.pdb
+/Users/aniket/Projects/LinqDemo/LinqDemo/obj/Debug/net7.0/LinqDemo.genruntimeconfig.cache
+/Users/aniket/Projects/LinqDemo/LinqDemo/obj/Debug/net7.0/ref/LinqDemo.dll

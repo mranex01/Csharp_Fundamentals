@@ -1,0 +1,15 @@
+/Users/aniket/Projects/FileReader/FileReader/bin/Debug/net7.0/FileReader
+/Users/aniket/Projects/FileReader/FileReader/bin/Debug/net7.0/FileReader.deps.json
+/Users/aniket/Projects/FileReader/FileReader/bin/Debug/net7.0/FileReader.runtimeconfig.json
+/Users/aniket/Projects/FileReader/FileReader/bin/Debug/net7.0/FileReader.dll
+/Users/aniket/Projects/FileReader/FileReader/bin/Debug/net7.0/FileReader.pdb
+/Users/aniket/Projects/FileReader/FileReader/obj/Debug/net7.0/FileReader.csproj.AssemblyReference.cache
+/Users/aniket/Projects/FileReader/FileReader/obj/Debug/net7.0/FileReader.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/FileReader/FileReader/obj/Debug/net7.0/FileReader.AssemblyInfoInputs.cache
+/Users/aniket/Projects/FileReader/FileReader/obj/Debug/net7.0/FileReader.AssemblyInfo.cs
+/Users/aniket/Projects/FileReader/FileReader/obj/Debug/net7.0/FileReader.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/FileReader/FileReader/obj/Debug/net7.0/FileReader.dll
+/Users/aniket/Projects/FileReader/FileReader/obj/Debug/net7.0/refint/FileReader.dll
+/Users/aniket/Projects/FileReader/FileReader/obj/Debug/net7.0/FileReader.pdb
+/Users/aniket/Projects/FileReader/FileReader/obj/Debug/net7.0/FileReader.genruntimeconfig.cache
+/Users/aniket/Projects/FileReader/FileReader/obj/Debug/net7.0/ref/FileReader.dll

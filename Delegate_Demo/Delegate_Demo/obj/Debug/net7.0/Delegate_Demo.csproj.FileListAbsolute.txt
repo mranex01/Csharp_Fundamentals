@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Delegate_Demo/Delegate_Demo/bin/Debug/net7.0/Delegate_Demo
+/Users/aniket/Projects/Delegate_Demo/Delegate_Demo/bin/Debug/net7.0/Delegate_Demo.deps.json
+/Users/aniket/Projects/Delegate_Demo/Delegate_Demo/bin/Debug/net7.0/Delegate_Demo.runtimeconfig.json
+/Users/aniket/Projects/Delegate_Demo/Delegate_Demo/bin/Debug/net7.0/Delegate_Demo.dll
+/Users/aniket/Projects/Delegate_Demo/Delegate_Demo/bin/Debug/net7.0/Delegate_Demo.pdb
+/Users/aniket/Projects/Delegate_Demo/Delegate_Demo/obj/Debug/net7.0/Delegate_Demo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Delegate_Demo/Delegate_Demo/obj/Debug/net7.0/Delegate_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Delegate_Demo/Delegate_Demo/obj/Debug/net7.0/Delegate_Demo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Delegate_Demo/Delegate_Demo/obj/Debug/net7.0/Delegate_Demo.AssemblyInfo.cs
+/Users/aniket/Projects/Delegate_Demo/Delegate_Demo/obj/Debug/net7.0/Delegate_Demo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Delegate_Demo/Delegate_Demo/obj/Debug/net7.0/Delegate_Demo.dll
+/Users/aniket/Projects/Delegate_Demo/Delegate_Demo/obj/Debug/net7.0/refint/Delegate_Demo.dll
+/Users/aniket/Projects/Delegate_Demo/Delegate_Demo/obj/Debug/net7.0/Delegate_Demo.pdb
+/Users/aniket/Projects/Delegate_Demo/Delegate_Demo/obj/Debug/net7.0/Delegate_Demo.genruntimeconfig.cache
+/Users/aniket/Projects/Delegate_Demo/Delegate_Demo/obj/Debug/net7.0/ref/Delegate_Demo.dll

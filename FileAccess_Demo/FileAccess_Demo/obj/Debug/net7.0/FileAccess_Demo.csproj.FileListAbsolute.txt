@@ -1,0 +1,15 @@
+/Users/aniket/Projects/FileAccess_Demo/FileAccess_Demo/bin/Debug/net7.0/FileAccess_Demo
+/Users/aniket/Projects/FileAccess_Demo/FileAccess_Demo/bin/Debug/net7.0/FileAccess_Demo.deps.json
+/Users/aniket/Projects/FileAccess_Demo/FileAccess_Demo/bin/Debug/net7.0/FileAccess_Demo.runtimeconfig.json
+/Users/aniket/Projects/FileAccess_Demo/FileAccess_Demo/bin/Debug/net7.0/FileAccess_Demo.dll
+/Users/aniket/Projects/FileAccess_Demo/FileAccess_Demo/bin/Debug/net7.0/FileAccess_Demo.pdb
+/Users/aniket/Projects/FileAccess_Demo/FileAccess_Demo/obj/Debug/net7.0/FileAccess_Demo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/FileAccess_Demo/FileAccess_Demo/obj/Debug/net7.0/FileAccess_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/FileAccess_Demo/FileAccess_Demo/obj/Debug/net7.0/FileAccess_Demo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/FileAccess_Demo/FileAccess_Demo/obj/Debug/net7.0/FileAccess_Demo.AssemblyInfo.cs
+/Users/aniket/Projects/FileAccess_Demo/FileAccess_Demo/obj/Debug/net7.0/FileAccess_Demo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/FileAccess_Demo/FileAccess_Demo/obj/Debug/net7.0/FileAccess_Demo.dll
+/Users/aniket/Projects/FileAccess_Demo/FileAccess_Demo/obj/Debug/net7.0/refint/FileAccess_Demo.dll
+/Users/aniket/Projects/FileAccess_Demo/FileAccess_Demo/obj/Debug/net7.0/FileAccess_Demo.pdb
+/Users/aniket/Projects/FileAccess_Demo/FileAccess_Demo/obj/Debug/net7.0/FileAccess_Demo.genruntimeconfig.cache
+/Users/aniket/Projects/FileAccess_Demo/FileAccess_Demo/obj/Debug/net7.0/ref/FileAccess_Demo.dll

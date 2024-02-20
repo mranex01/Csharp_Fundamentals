@@ -1,0 +1,15 @@
+/Users/aniket/Projects/2no/2n/bin/Debug/net7.0/2n
+/Users/aniket/Projects/2no/2n/bin/Debug/net7.0/2n.deps.json
+/Users/aniket/Projects/2no/2n/bin/Debug/net7.0/2n.runtimeconfig.json
+/Users/aniket/Projects/2no/2n/bin/Debug/net7.0/2n.dll
+/Users/aniket/Projects/2no/2n/bin/Debug/net7.0/2n.pdb
+/Users/aniket/Projects/2no/2n/obj/Debug/net7.0/2n.csproj.AssemblyReference.cache
+/Users/aniket/Projects/2no/2n/obj/Debug/net7.0/2n.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/2no/2n/obj/Debug/net7.0/2n.AssemblyInfoInputs.cache
+/Users/aniket/Projects/2no/2n/obj/Debug/net7.0/2n.AssemblyInfo.cs
+/Users/aniket/Projects/2no/2n/obj/Debug/net7.0/2n.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/2no/2n/obj/Debug/net7.0/2n.dll
+/Users/aniket/Projects/2no/2n/obj/Debug/net7.0/refint/2n.dll
+/Users/aniket/Projects/2no/2n/obj/Debug/net7.0/2n.pdb
+/Users/aniket/Projects/2no/2n/obj/Debug/net7.0/2n.genruntimeconfig.cache
+/Users/aniket/Projects/2no/2n/obj/Debug/net7.0/ref/2n.dll

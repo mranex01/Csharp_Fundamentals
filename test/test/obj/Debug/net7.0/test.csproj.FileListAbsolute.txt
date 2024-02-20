@@ -1,0 +1,15 @@
+/Users/aniket/Projects/test/test/bin/Debug/net7.0/test
+/Users/aniket/Projects/test/test/bin/Debug/net7.0/test.deps.json
+/Users/aniket/Projects/test/test/bin/Debug/net7.0/test.runtimeconfig.json
+/Users/aniket/Projects/test/test/bin/Debug/net7.0/test.dll
+/Users/aniket/Projects/test/test/bin/Debug/net7.0/test.pdb
+/Users/aniket/Projects/test/test/obj/Debug/net7.0/test.csproj.AssemblyReference.cache
+/Users/aniket/Projects/test/test/obj/Debug/net7.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/test/test/obj/Debug/net7.0/test.AssemblyInfoInputs.cache
+/Users/aniket/Projects/test/test/obj/Debug/net7.0/test.AssemblyInfo.cs
+/Users/aniket/Projects/test/test/obj/Debug/net7.0/test.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/test/test/obj/Debug/net7.0/test.dll
+/Users/aniket/Projects/test/test/obj/Debug/net7.0/refint/test.dll
+/Users/aniket/Projects/test/test/obj/Debug/net7.0/test.pdb
+/Users/aniket/Projects/test/test/obj/Debug/net7.0/test.genruntimeconfig.cache
+/Users/aniket/Projects/test/test/obj/Debug/net7.0/ref/test.dll

@@ -1,0 +1,15 @@
+/Users/aniket/Projects/PassByRef/PassByRef/bin/Debug/net7.0/PassByRef
+/Users/aniket/Projects/PassByRef/PassByRef/bin/Debug/net7.0/PassByRef.deps.json
+/Users/aniket/Projects/PassByRef/PassByRef/bin/Debug/net7.0/PassByRef.runtimeconfig.json
+/Users/aniket/Projects/PassByRef/PassByRef/bin/Debug/net7.0/PassByRef.dll
+/Users/aniket/Projects/PassByRef/PassByRef/bin/Debug/net7.0/PassByRef.pdb
+/Users/aniket/Projects/PassByRef/PassByRef/obj/Debug/net7.0/PassByRef.csproj.AssemblyReference.cache
+/Users/aniket/Projects/PassByRef/PassByRef/obj/Debug/net7.0/PassByRef.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/PassByRef/PassByRef/obj/Debug/net7.0/PassByRef.AssemblyInfoInputs.cache
+/Users/aniket/Projects/PassByRef/PassByRef/obj/Debug/net7.0/PassByRef.AssemblyInfo.cs
+/Users/aniket/Projects/PassByRef/PassByRef/obj/Debug/net7.0/PassByRef.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/PassByRef/PassByRef/obj/Debug/net7.0/PassByRef.dll
+/Users/aniket/Projects/PassByRef/PassByRef/obj/Debug/net7.0/refint/PassByRef.dll
+/Users/aniket/Projects/PassByRef/PassByRef/obj/Debug/net7.0/PassByRef.pdb
+/Users/aniket/Projects/PassByRef/PassByRef/obj/Debug/net7.0/PassByRef.genruntimeconfig.cache
+/Users/aniket/Projects/PassByRef/PassByRef/obj/Debug/net7.0/ref/PassByRef.dll

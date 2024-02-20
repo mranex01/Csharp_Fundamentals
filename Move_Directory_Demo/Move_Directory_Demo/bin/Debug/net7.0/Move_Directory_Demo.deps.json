@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Move_Directory_Demo/1.0.0": {
+        "runtime": {
+          "Move_Directory_Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Move_Directory_Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

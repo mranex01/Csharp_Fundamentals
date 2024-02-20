@@ -1,0 +1,15 @@
+/Users/aniket/Projects/FileDemo/FileDemo/bin/Debug/net7.0/FileDemo
+/Users/aniket/Projects/FileDemo/FileDemo/bin/Debug/net7.0/FileDemo.deps.json
+/Users/aniket/Projects/FileDemo/FileDemo/bin/Debug/net7.0/FileDemo.runtimeconfig.json
+/Users/aniket/Projects/FileDemo/FileDemo/bin/Debug/net7.0/FileDemo.dll
+/Users/aniket/Projects/FileDemo/FileDemo/bin/Debug/net7.0/FileDemo.pdb
+/Users/aniket/Projects/FileDemo/FileDemo/obj/Debug/net7.0/FileDemo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/FileDemo/FileDemo/obj/Debug/net7.0/FileDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/FileDemo/FileDemo/obj/Debug/net7.0/FileDemo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/FileDemo/FileDemo/obj/Debug/net7.0/FileDemo.AssemblyInfo.cs
+/Users/aniket/Projects/FileDemo/FileDemo/obj/Debug/net7.0/FileDemo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/FileDemo/FileDemo/obj/Debug/net7.0/FileDemo.dll
+/Users/aniket/Projects/FileDemo/FileDemo/obj/Debug/net7.0/refint/FileDemo.dll
+/Users/aniket/Projects/FileDemo/FileDemo/obj/Debug/net7.0/FileDemo.pdb
+/Users/aniket/Projects/FileDemo/FileDemo/obj/Debug/net7.0/FileDemo.genruntimeconfig.cache
+/Users/aniket/Projects/FileDemo/FileDemo/obj/Debug/net7.0/ref/FileDemo.dll

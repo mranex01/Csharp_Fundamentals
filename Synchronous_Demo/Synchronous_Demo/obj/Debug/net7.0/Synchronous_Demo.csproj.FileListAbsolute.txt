@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Synchronous_Demo/Synchronous_Demo/bin/Debug/net7.0/Synchronous_Demo
+/Users/aniket/Projects/Synchronous_Demo/Synchronous_Demo/bin/Debug/net7.0/Synchronous_Demo.deps.json
+/Users/aniket/Projects/Synchronous_Demo/Synchronous_Demo/bin/Debug/net7.0/Synchronous_Demo.runtimeconfig.json
+/Users/aniket/Projects/Synchronous_Demo/Synchronous_Demo/bin/Debug/net7.0/Synchronous_Demo.dll
+/Users/aniket/Projects/Synchronous_Demo/Synchronous_Demo/bin/Debug/net7.0/Synchronous_Demo.pdb
+/Users/aniket/Projects/Synchronous_Demo/Synchronous_Demo/obj/Debug/net7.0/Synchronous_Demo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Synchronous_Demo/Synchronous_Demo/obj/Debug/net7.0/Synchronous_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Synchronous_Demo/Synchronous_Demo/obj/Debug/net7.0/Synchronous_Demo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Synchronous_Demo/Synchronous_Demo/obj/Debug/net7.0/Synchronous_Demo.AssemblyInfo.cs
+/Users/aniket/Projects/Synchronous_Demo/Synchronous_Demo/obj/Debug/net7.0/Synchronous_Demo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Synchronous_Demo/Synchronous_Demo/obj/Debug/net7.0/Synchronous_Demo.dll
+/Users/aniket/Projects/Synchronous_Demo/Synchronous_Demo/obj/Debug/net7.0/refint/Synchronous_Demo.dll
+/Users/aniket/Projects/Synchronous_Demo/Synchronous_Demo/obj/Debug/net7.0/Synchronous_Demo.pdb
+/Users/aniket/Projects/Synchronous_Demo/Synchronous_Demo/obj/Debug/net7.0/Synchronous_Demo.genruntimeconfig.cache
+/Users/aniket/Projects/Synchronous_Demo/Synchronous_Demo/obj/Debug/net7.0/ref/Synchronous_Demo.dll

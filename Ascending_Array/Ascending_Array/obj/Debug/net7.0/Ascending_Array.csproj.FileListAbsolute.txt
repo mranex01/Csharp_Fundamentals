@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Ascending_Array/Ascending_Array/bin/Debug/net7.0/Ascending_Array
+/Users/aniket/Projects/Ascending_Array/Ascending_Array/bin/Debug/net7.0/Ascending_Array.deps.json
+/Users/aniket/Projects/Ascending_Array/Ascending_Array/bin/Debug/net7.0/Ascending_Array.runtimeconfig.json
+/Users/aniket/Projects/Ascending_Array/Ascending_Array/bin/Debug/net7.0/Ascending_Array.dll
+/Users/aniket/Projects/Ascending_Array/Ascending_Array/bin/Debug/net7.0/Ascending_Array.pdb
+/Users/aniket/Projects/Ascending_Array/Ascending_Array/obj/Debug/net7.0/Ascending_Array.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Ascending_Array/Ascending_Array/obj/Debug/net7.0/Ascending_Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Ascending_Array/Ascending_Array/obj/Debug/net7.0/Ascending_Array.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Ascending_Array/Ascending_Array/obj/Debug/net7.0/Ascending_Array.AssemblyInfo.cs
+/Users/aniket/Projects/Ascending_Array/Ascending_Array/obj/Debug/net7.0/Ascending_Array.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Ascending_Array/Ascending_Array/obj/Debug/net7.0/Ascending_Array.dll
+/Users/aniket/Projects/Ascending_Array/Ascending_Array/obj/Debug/net7.0/refint/Ascending_Array.dll
+/Users/aniket/Projects/Ascending_Array/Ascending_Array/obj/Debug/net7.0/Ascending_Array.pdb
+/Users/aniket/Projects/Ascending_Array/Ascending_Array/obj/Debug/net7.0/Ascending_Array.genruntimeconfig.cache
+/Users/aniket/Projects/Ascending_Array/Ascending_Array/obj/Debug/net7.0/ref/Ascending_Array.dll

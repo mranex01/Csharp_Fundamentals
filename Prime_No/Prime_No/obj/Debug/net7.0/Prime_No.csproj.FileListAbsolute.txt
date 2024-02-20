@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Prime_No/Prime_No/bin/Debug/net7.0/Prime_No
+/Users/aniket/Projects/Prime_No/Prime_No/bin/Debug/net7.0/Prime_No.deps.json
+/Users/aniket/Projects/Prime_No/Prime_No/bin/Debug/net7.0/Prime_No.runtimeconfig.json
+/Users/aniket/Projects/Prime_No/Prime_No/bin/Debug/net7.0/Prime_No.dll
+/Users/aniket/Projects/Prime_No/Prime_No/bin/Debug/net7.0/Prime_No.pdb
+/Users/aniket/Projects/Prime_No/Prime_No/obj/Debug/net7.0/Prime_No.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Prime_No/Prime_No/obj/Debug/net7.0/Prime_No.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Prime_No/Prime_No/obj/Debug/net7.0/Prime_No.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Prime_No/Prime_No/obj/Debug/net7.0/Prime_No.AssemblyInfo.cs
+/Users/aniket/Projects/Prime_No/Prime_No/obj/Debug/net7.0/Prime_No.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Prime_No/Prime_No/obj/Debug/net7.0/Prime_No.dll
+/Users/aniket/Projects/Prime_No/Prime_No/obj/Debug/net7.0/refint/Prime_No.dll
+/Users/aniket/Projects/Prime_No/Prime_No/obj/Debug/net7.0/Prime_No.pdb
+/Users/aniket/Projects/Prime_No/Prime_No/obj/Debug/net7.0/Prime_No.genruntimeconfig.cache
+/Users/aniket/Projects/Prime_No/Prime_No/obj/Debug/net7.0/ref/Prime_No.dll

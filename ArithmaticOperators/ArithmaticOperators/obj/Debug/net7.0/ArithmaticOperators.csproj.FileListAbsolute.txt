@@ -1,0 +1,15 @@
+/Users/aniket/Projects/ArithmaticOperators/ArithmaticOperators/bin/Debug/net7.0/ArithmaticOperators
+/Users/aniket/Projects/ArithmaticOperators/ArithmaticOperators/bin/Debug/net7.0/ArithmaticOperators.deps.json
+/Users/aniket/Projects/ArithmaticOperators/ArithmaticOperators/bin/Debug/net7.0/ArithmaticOperators.runtimeconfig.json
+/Users/aniket/Projects/ArithmaticOperators/ArithmaticOperators/bin/Debug/net7.0/ArithmaticOperators.dll
+/Users/aniket/Projects/ArithmaticOperators/ArithmaticOperators/bin/Debug/net7.0/ArithmaticOperators.pdb
+/Users/aniket/Projects/ArithmaticOperators/ArithmaticOperators/obj/Debug/net7.0/ArithmaticOperators.csproj.AssemblyReference.cache
+/Users/aniket/Projects/ArithmaticOperators/ArithmaticOperators/obj/Debug/net7.0/ArithmaticOperators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/ArithmaticOperators/ArithmaticOperators/obj/Debug/net7.0/ArithmaticOperators.AssemblyInfoInputs.cache
+/Users/aniket/Projects/ArithmaticOperators/ArithmaticOperators/obj/Debug/net7.0/ArithmaticOperators.AssemblyInfo.cs
+/Users/aniket/Projects/ArithmaticOperators/ArithmaticOperators/obj/Debug/net7.0/ArithmaticOperators.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/ArithmaticOperators/ArithmaticOperators/obj/Debug/net7.0/ArithmaticOperators.dll
+/Users/aniket/Projects/ArithmaticOperators/ArithmaticOperators/obj/Debug/net7.0/refint/ArithmaticOperators.dll
+/Users/aniket/Projects/ArithmaticOperators/ArithmaticOperators/obj/Debug/net7.0/ArithmaticOperators.pdb
+/Users/aniket/Projects/ArithmaticOperators/ArithmaticOperators/obj/Debug/net7.0/ArithmaticOperators.genruntimeconfig.cache
+/Users/aniket/Projects/ArithmaticOperators/ArithmaticOperators/obj/Debug/net7.0/ref/ArithmaticOperators.dll

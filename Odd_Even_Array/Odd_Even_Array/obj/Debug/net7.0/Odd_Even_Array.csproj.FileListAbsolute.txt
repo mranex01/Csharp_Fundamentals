@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Odd_Even_Array/Odd_Even_Array/bin/Debug/net7.0/Odd_Even_Array
+/Users/aniket/Projects/Odd_Even_Array/Odd_Even_Array/bin/Debug/net7.0/Odd_Even_Array.deps.json
+/Users/aniket/Projects/Odd_Even_Array/Odd_Even_Array/bin/Debug/net7.0/Odd_Even_Array.runtimeconfig.json
+/Users/aniket/Projects/Odd_Even_Array/Odd_Even_Array/bin/Debug/net7.0/Odd_Even_Array.dll
+/Users/aniket/Projects/Odd_Even_Array/Odd_Even_Array/bin/Debug/net7.0/Odd_Even_Array.pdb
+/Users/aniket/Projects/Odd_Even_Array/Odd_Even_Array/obj/Debug/net7.0/Odd_Even_Array.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Odd_Even_Array/Odd_Even_Array/obj/Debug/net7.0/Odd_Even_Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Odd_Even_Array/Odd_Even_Array/obj/Debug/net7.0/Odd_Even_Array.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Odd_Even_Array/Odd_Even_Array/obj/Debug/net7.0/Odd_Even_Array.AssemblyInfo.cs
+/Users/aniket/Projects/Odd_Even_Array/Odd_Even_Array/obj/Debug/net7.0/Odd_Even_Array.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Odd_Even_Array/Odd_Even_Array/obj/Debug/net7.0/Odd_Even_Array.dll
+/Users/aniket/Projects/Odd_Even_Array/Odd_Even_Array/obj/Debug/net7.0/refint/Odd_Even_Array.dll
+/Users/aniket/Projects/Odd_Even_Array/Odd_Even_Array/obj/Debug/net7.0/Odd_Even_Array.pdb
+/Users/aniket/Projects/Odd_Even_Array/Odd_Even_Array/obj/Debug/net7.0/Odd_Even_Array.genruntimeconfig.cache
+/Users/aniket/Projects/Odd_Even_Array/Odd_Even_Array/obj/Debug/net7.0/ref/Odd_Even_Array.dll

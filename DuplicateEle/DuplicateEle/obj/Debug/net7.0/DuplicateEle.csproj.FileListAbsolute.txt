@@ -1,0 +1,15 @@
+/Users/aniket/Projects/DuplicateEle/DuplicateEle/bin/Debug/net7.0/DuplicateEle
+/Users/aniket/Projects/DuplicateEle/DuplicateEle/bin/Debug/net7.0/DuplicateEle.deps.json
+/Users/aniket/Projects/DuplicateEle/DuplicateEle/bin/Debug/net7.0/DuplicateEle.runtimeconfig.json
+/Users/aniket/Projects/DuplicateEle/DuplicateEle/bin/Debug/net7.0/DuplicateEle.dll
+/Users/aniket/Projects/DuplicateEle/DuplicateEle/bin/Debug/net7.0/DuplicateEle.pdb
+/Users/aniket/Projects/DuplicateEle/DuplicateEle/obj/Debug/net7.0/DuplicateEle.csproj.AssemblyReference.cache
+/Users/aniket/Projects/DuplicateEle/DuplicateEle/obj/Debug/net7.0/DuplicateEle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/DuplicateEle/DuplicateEle/obj/Debug/net7.0/DuplicateEle.AssemblyInfoInputs.cache
+/Users/aniket/Projects/DuplicateEle/DuplicateEle/obj/Debug/net7.0/DuplicateEle.AssemblyInfo.cs
+/Users/aniket/Projects/DuplicateEle/DuplicateEle/obj/Debug/net7.0/DuplicateEle.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/DuplicateEle/DuplicateEle/obj/Debug/net7.0/DuplicateEle.dll
+/Users/aniket/Projects/DuplicateEle/DuplicateEle/obj/Debug/net7.0/refint/DuplicateEle.dll
+/Users/aniket/Projects/DuplicateEle/DuplicateEle/obj/Debug/net7.0/DuplicateEle.pdb
+/Users/aniket/Projects/DuplicateEle/DuplicateEle/obj/Debug/net7.0/DuplicateEle.genruntimeconfig.cache
+/Users/aniket/Projects/DuplicateEle/DuplicateEle/obj/Debug/net7.0/ref/DuplicateEle.dll

@@ -1,0 +1,15 @@
+/Users/aniket/Projects/FileCopy_Demo/FileCopy_Demo/bin/Debug/net7.0/FileCopy_Demo
+/Users/aniket/Projects/FileCopy_Demo/FileCopy_Demo/bin/Debug/net7.0/FileCopy_Demo.deps.json
+/Users/aniket/Projects/FileCopy_Demo/FileCopy_Demo/bin/Debug/net7.0/FileCopy_Demo.runtimeconfig.json
+/Users/aniket/Projects/FileCopy_Demo/FileCopy_Demo/bin/Debug/net7.0/FileCopy_Demo.dll
+/Users/aniket/Projects/FileCopy_Demo/FileCopy_Demo/bin/Debug/net7.0/FileCopy_Demo.pdb
+/Users/aniket/Projects/FileCopy_Demo/FileCopy_Demo/obj/Debug/net7.0/FileCopy_Demo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/FileCopy_Demo/FileCopy_Demo/obj/Debug/net7.0/FileCopy_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/FileCopy_Demo/FileCopy_Demo/obj/Debug/net7.0/FileCopy_Demo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/FileCopy_Demo/FileCopy_Demo/obj/Debug/net7.0/FileCopy_Demo.AssemblyInfo.cs
+/Users/aniket/Projects/FileCopy_Demo/FileCopy_Demo/obj/Debug/net7.0/FileCopy_Demo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/FileCopy_Demo/FileCopy_Demo/obj/Debug/net7.0/FileCopy_Demo.dll
+/Users/aniket/Projects/FileCopy_Demo/FileCopy_Demo/obj/Debug/net7.0/refint/FileCopy_Demo.dll
+/Users/aniket/Projects/FileCopy_Demo/FileCopy_Demo/obj/Debug/net7.0/FileCopy_Demo.pdb
+/Users/aniket/Projects/FileCopy_Demo/FileCopy_Demo/obj/Debug/net7.0/FileCopy_Demo.genruntimeconfig.cache
+/Users/aniket/Projects/FileCopy_Demo/FileCopy_Demo/obj/Debug/net7.0/ref/FileCopy_Demo.dll

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D353E3DF-BF1C-4575-93C1-824E7C343B90}|Default">
+  <MonoDevelop.Ide.ItemProperties.MultiiCast__Delegates PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MultiiCast_Delegates/Program.cs">
+    <Files>
+      <File FileName="MultiiCast_Delegates/Program.cs" Line="28" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MultiiCast_Delegates" expanded="True">
+            <Node name="MultiiCast_Delegates" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7B7C3B3C-31CF-4EDE-A23E-5507BF1AA87C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Nested_Switch_Demo/Program.cs">
+    <Files>
+      <File FileName="Nested_Switch_Demo/Program.cs" Line="40" Column="65" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Nested_Switch_Demo" expanded="True">
+            <Node name="Nested_Switch_Demo" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Nested__Switch__Demo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

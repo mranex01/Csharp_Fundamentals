@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Dictionary/Dictionary/bin/Debug/net7.0/Dictionary
+/Users/aniket/Projects/Dictionary/Dictionary/bin/Debug/net7.0/Dictionary.deps.json
+/Users/aniket/Projects/Dictionary/Dictionary/bin/Debug/net7.0/Dictionary.runtimeconfig.json
+/Users/aniket/Projects/Dictionary/Dictionary/bin/Debug/net7.0/Dictionary.dll
+/Users/aniket/Projects/Dictionary/Dictionary/bin/Debug/net7.0/Dictionary.pdb
+/Users/aniket/Projects/Dictionary/Dictionary/obj/Debug/net7.0/Dictionary.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Dictionary/Dictionary/obj/Debug/net7.0/Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Dictionary/Dictionary/obj/Debug/net7.0/Dictionary.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Dictionary/Dictionary/obj/Debug/net7.0/Dictionary.AssemblyInfo.cs
+/Users/aniket/Projects/Dictionary/Dictionary/obj/Debug/net7.0/Dictionary.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Dictionary/Dictionary/obj/Debug/net7.0/Dictionary.dll
+/Users/aniket/Projects/Dictionary/Dictionary/obj/Debug/net7.0/refint/Dictionary.dll
+/Users/aniket/Projects/Dictionary/Dictionary/obj/Debug/net7.0/Dictionary.pdb
+/Users/aniket/Projects/Dictionary/Dictionary/obj/Debug/net7.0/Dictionary.genruntimeconfig.cache
+/Users/aniket/Projects/Dictionary/Dictionary/obj/Debug/net7.0/ref/Dictionary.dll

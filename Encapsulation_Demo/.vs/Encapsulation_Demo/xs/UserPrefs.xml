@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{F9F3B29F-1CB5-435B-B303-3D702BA6E3B7}|Default">
+  <MonoDevelop.Ide.ItemProperties.Encapsulation__Demo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Encapsulation_Demo/Program.cs">
+    <Files>
+      <File FileName="Encapsulation_Demo/Program.cs" Line="24" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Encapsulation_Demo" expanded="True">
+            <Node name="Encapsulation_Demo" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

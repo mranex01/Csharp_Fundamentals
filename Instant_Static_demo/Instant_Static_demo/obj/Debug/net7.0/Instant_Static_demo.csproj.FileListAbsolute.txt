@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Instant_Static_demo/Instant_Static_demo/bin/Debug/net7.0/Instant_Static_demo
+/Users/aniket/Projects/Instant_Static_demo/Instant_Static_demo/bin/Debug/net7.0/Instant_Static_demo.deps.json
+/Users/aniket/Projects/Instant_Static_demo/Instant_Static_demo/bin/Debug/net7.0/Instant_Static_demo.runtimeconfig.json
+/Users/aniket/Projects/Instant_Static_demo/Instant_Static_demo/bin/Debug/net7.0/Instant_Static_demo.dll
+/Users/aniket/Projects/Instant_Static_demo/Instant_Static_demo/bin/Debug/net7.0/Instant_Static_demo.pdb
+/Users/aniket/Projects/Instant_Static_demo/Instant_Static_demo/obj/Debug/net7.0/Instant_Static_demo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Instant_Static_demo/Instant_Static_demo/obj/Debug/net7.0/Instant_Static_demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Instant_Static_demo/Instant_Static_demo/obj/Debug/net7.0/Instant_Static_demo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Instant_Static_demo/Instant_Static_demo/obj/Debug/net7.0/Instant_Static_demo.AssemblyInfo.cs
+/Users/aniket/Projects/Instant_Static_demo/Instant_Static_demo/obj/Debug/net7.0/Instant_Static_demo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Instant_Static_demo/Instant_Static_demo/obj/Debug/net7.0/Instant_Static_demo.dll
+/Users/aniket/Projects/Instant_Static_demo/Instant_Static_demo/obj/Debug/net7.0/refint/Instant_Static_demo.dll
+/Users/aniket/Projects/Instant_Static_demo/Instant_Static_demo/obj/Debug/net7.0/Instant_Static_demo.pdb
+/Users/aniket/Projects/Instant_Static_demo/Instant_Static_demo/obj/Debug/net7.0/Instant_Static_demo.genruntimeconfig.cache
+/Users/aniket/Projects/Instant_Static_demo/Instant_Static_demo/obj/Debug/net7.0/ref/Instant_Static_demo.dll

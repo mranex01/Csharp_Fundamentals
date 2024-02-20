@@ -1,0 +1,15 @@
+/Users/aniket/Projects/STUDENT_MARKSHEET/STUDENT_MARKSHEET/bin/Debug/net7.0/STUDENT_MARKSHEET
+/Users/aniket/Projects/STUDENT_MARKSHEET/STUDENT_MARKSHEET/bin/Debug/net7.0/STUDENT_MARKSHEET.deps.json
+/Users/aniket/Projects/STUDENT_MARKSHEET/STUDENT_MARKSHEET/bin/Debug/net7.0/STUDENT_MARKSHEET.runtimeconfig.json
+/Users/aniket/Projects/STUDENT_MARKSHEET/STUDENT_MARKSHEET/bin/Debug/net7.0/STUDENT_MARKSHEET.dll
+/Users/aniket/Projects/STUDENT_MARKSHEET/STUDENT_MARKSHEET/bin/Debug/net7.0/STUDENT_MARKSHEET.pdb
+/Users/aniket/Projects/STUDENT_MARKSHEET/STUDENT_MARKSHEET/obj/Debug/net7.0/STUDENT_MARKSHEET.csproj.AssemblyReference.cache
+/Users/aniket/Projects/STUDENT_MARKSHEET/STUDENT_MARKSHEET/obj/Debug/net7.0/STUDENT_MARKSHEET.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/STUDENT_MARKSHEET/STUDENT_MARKSHEET/obj/Debug/net7.0/STUDENT_MARKSHEET.AssemblyInfoInputs.cache
+/Users/aniket/Projects/STUDENT_MARKSHEET/STUDENT_MARKSHEET/obj/Debug/net7.0/STUDENT_MARKSHEET.AssemblyInfo.cs
+/Users/aniket/Projects/STUDENT_MARKSHEET/STUDENT_MARKSHEET/obj/Debug/net7.0/STUDENT_MARKSHEET.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/STUDENT_MARKSHEET/STUDENT_MARKSHEET/obj/Debug/net7.0/STUDENT_MARKSHEET.dll
+/Users/aniket/Projects/STUDENT_MARKSHEET/STUDENT_MARKSHEET/obj/Debug/net7.0/refint/STUDENT_MARKSHEET.dll
+/Users/aniket/Projects/STUDENT_MARKSHEET/STUDENT_MARKSHEET/obj/Debug/net7.0/STUDENT_MARKSHEET.pdb
+/Users/aniket/Projects/STUDENT_MARKSHEET/STUDENT_MARKSHEET/obj/Debug/net7.0/STUDENT_MARKSHEET.genruntimeconfig.cache
+/Users/aniket/Projects/STUDENT_MARKSHEET/STUDENT_MARKSHEET/obj/Debug/net7.0/ref/STUDENT_MARKSHEET.dll

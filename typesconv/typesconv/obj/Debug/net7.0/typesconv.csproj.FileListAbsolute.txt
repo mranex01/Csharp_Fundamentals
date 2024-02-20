@@ -1,0 +1,15 @@
+/Users/aniket/Projects/typesconv/typesconv/bin/Debug/net7.0/typesconv
+/Users/aniket/Projects/typesconv/typesconv/bin/Debug/net7.0/typesconv.deps.json
+/Users/aniket/Projects/typesconv/typesconv/bin/Debug/net7.0/typesconv.runtimeconfig.json
+/Users/aniket/Projects/typesconv/typesconv/bin/Debug/net7.0/typesconv.dll
+/Users/aniket/Projects/typesconv/typesconv/bin/Debug/net7.0/typesconv.pdb
+/Users/aniket/Projects/typesconv/typesconv/obj/Debug/net7.0/typesconv.csproj.AssemblyReference.cache
+/Users/aniket/Projects/typesconv/typesconv/obj/Debug/net7.0/typesconv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/typesconv/typesconv/obj/Debug/net7.0/typesconv.AssemblyInfoInputs.cache
+/Users/aniket/Projects/typesconv/typesconv/obj/Debug/net7.0/typesconv.AssemblyInfo.cs
+/Users/aniket/Projects/typesconv/typesconv/obj/Debug/net7.0/typesconv.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/typesconv/typesconv/obj/Debug/net7.0/typesconv.dll
+/Users/aniket/Projects/typesconv/typesconv/obj/Debug/net7.0/refint/typesconv.dll
+/Users/aniket/Projects/typesconv/typesconv/obj/Debug/net7.0/typesconv.pdb
+/Users/aniket/Projects/typesconv/typesconv/obj/Debug/net7.0/typesconv.genruntimeconfig.cache
+/Users/aniket/Projects/typesconv/typesconv/obj/Debug/net7.0/ref/typesconv.dll

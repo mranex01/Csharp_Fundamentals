@@ -1,0 +1,15 @@
+/Users/aniket/Projects/arevdemo/arevdemo/bin/Debug/net7.0/arevdemo
+/Users/aniket/Projects/arevdemo/arevdemo/bin/Debug/net7.0/arevdemo.deps.json
+/Users/aniket/Projects/arevdemo/arevdemo/bin/Debug/net7.0/arevdemo.runtimeconfig.json
+/Users/aniket/Projects/arevdemo/arevdemo/bin/Debug/net7.0/arevdemo.dll
+/Users/aniket/Projects/arevdemo/arevdemo/bin/Debug/net7.0/arevdemo.pdb
+/Users/aniket/Projects/arevdemo/arevdemo/obj/Debug/net7.0/arevdemo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/arevdemo/arevdemo/obj/Debug/net7.0/arevdemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/arevdemo/arevdemo/obj/Debug/net7.0/arevdemo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/arevdemo/arevdemo/obj/Debug/net7.0/arevdemo.AssemblyInfo.cs
+/Users/aniket/Projects/arevdemo/arevdemo/obj/Debug/net7.0/arevdemo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/arevdemo/arevdemo/obj/Debug/net7.0/arevdemo.dll
+/Users/aniket/Projects/arevdemo/arevdemo/obj/Debug/net7.0/refint/arevdemo.dll
+/Users/aniket/Projects/arevdemo/arevdemo/obj/Debug/net7.0/arevdemo.pdb
+/Users/aniket/Projects/arevdemo/arevdemo/obj/Debug/net7.0/arevdemo.genruntimeconfig.cache
+/Users/aniket/Projects/arevdemo/arevdemo/obj/Debug/net7.0/ref/arevdemo.dll

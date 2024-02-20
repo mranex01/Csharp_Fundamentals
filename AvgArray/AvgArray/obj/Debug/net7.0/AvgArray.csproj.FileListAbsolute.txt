@@ -1,0 +1,15 @@
+/Users/aniket/Projects/AvgArray/AvgArray/bin/Debug/net7.0/AvgArray
+/Users/aniket/Projects/AvgArray/AvgArray/bin/Debug/net7.0/AvgArray.deps.json
+/Users/aniket/Projects/AvgArray/AvgArray/bin/Debug/net7.0/AvgArray.runtimeconfig.json
+/Users/aniket/Projects/AvgArray/AvgArray/bin/Debug/net7.0/AvgArray.dll
+/Users/aniket/Projects/AvgArray/AvgArray/bin/Debug/net7.0/AvgArray.pdb
+/Users/aniket/Projects/AvgArray/AvgArray/obj/Debug/net7.0/AvgArray.csproj.AssemblyReference.cache
+/Users/aniket/Projects/AvgArray/AvgArray/obj/Debug/net7.0/AvgArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/AvgArray/AvgArray/obj/Debug/net7.0/AvgArray.AssemblyInfoInputs.cache
+/Users/aniket/Projects/AvgArray/AvgArray/obj/Debug/net7.0/AvgArray.AssemblyInfo.cs
+/Users/aniket/Projects/AvgArray/AvgArray/obj/Debug/net7.0/AvgArray.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/AvgArray/AvgArray/obj/Debug/net7.0/AvgArray.dll
+/Users/aniket/Projects/AvgArray/AvgArray/obj/Debug/net7.0/refint/AvgArray.dll
+/Users/aniket/Projects/AvgArray/AvgArray/obj/Debug/net7.0/AvgArray.pdb
+/Users/aniket/Projects/AvgArray/AvgArray/obj/Debug/net7.0/AvgArray.genruntimeconfig.cache
+/Users/aniket/Projects/AvgArray/AvgArray/obj/Debug/net7.0/ref/AvgArray.dll

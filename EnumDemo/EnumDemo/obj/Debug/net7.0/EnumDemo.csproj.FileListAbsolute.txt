@@ -1,0 +1,15 @@
+/Users/aniket/Projects/EnumDemo/EnumDemo/bin/Debug/net7.0/EnumDemo
+/Users/aniket/Projects/EnumDemo/EnumDemo/bin/Debug/net7.0/EnumDemo.deps.json
+/Users/aniket/Projects/EnumDemo/EnumDemo/bin/Debug/net7.0/EnumDemo.runtimeconfig.json
+/Users/aniket/Projects/EnumDemo/EnumDemo/bin/Debug/net7.0/EnumDemo.dll
+/Users/aniket/Projects/EnumDemo/EnumDemo/bin/Debug/net7.0/EnumDemo.pdb
+/Users/aniket/Projects/EnumDemo/EnumDemo/obj/Debug/net7.0/EnumDemo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/EnumDemo/EnumDemo/obj/Debug/net7.0/EnumDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/EnumDemo/EnumDemo/obj/Debug/net7.0/EnumDemo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/EnumDemo/EnumDemo/obj/Debug/net7.0/EnumDemo.AssemblyInfo.cs
+/Users/aniket/Projects/EnumDemo/EnumDemo/obj/Debug/net7.0/EnumDemo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/EnumDemo/EnumDemo/obj/Debug/net7.0/EnumDemo.dll
+/Users/aniket/Projects/EnumDemo/EnumDemo/obj/Debug/net7.0/refint/EnumDemo.dll
+/Users/aniket/Projects/EnumDemo/EnumDemo/obj/Debug/net7.0/EnumDemo.pdb
+/Users/aniket/Projects/EnumDemo/EnumDemo/obj/Debug/net7.0/EnumDemo.genruntimeconfig.cache
+/Users/aniket/Projects/EnumDemo/EnumDemo/obj/Debug/net7.0/ref/EnumDemo.dll

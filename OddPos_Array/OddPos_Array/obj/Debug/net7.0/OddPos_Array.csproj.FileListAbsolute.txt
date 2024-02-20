@@ -1,0 +1,15 @@
+/Users/aniket/Projects/OddPos_Array/OddPos_Array/bin/Debug/net7.0/OddPos_Array
+/Users/aniket/Projects/OddPos_Array/OddPos_Array/bin/Debug/net7.0/OddPos_Array.deps.json
+/Users/aniket/Projects/OddPos_Array/OddPos_Array/bin/Debug/net7.0/OddPos_Array.runtimeconfig.json
+/Users/aniket/Projects/OddPos_Array/OddPos_Array/bin/Debug/net7.0/OddPos_Array.dll
+/Users/aniket/Projects/OddPos_Array/OddPos_Array/bin/Debug/net7.0/OddPos_Array.pdb
+/Users/aniket/Projects/OddPos_Array/OddPos_Array/obj/Debug/net7.0/OddPos_Array.csproj.AssemblyReference.cache
+/Users/aniket/Projects/OddPos_Array/OddPos_Array/obj/Debug/net7.0/OddPos_Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/OddPos_Array/OddPos_Array/obj/Debug/net7.0/OddPos_Array.AssemblyInfoInputs.cache
+/Users/aniket/Projects/OddPos_Array/OddPos_Array/obj/Debug/net7.0/OddPos_Array.AssemblyInfo.cs
+/Users/aniket/Projects/OddPos_Array/OddPos_Array/obj/Debug/net7.0/OddPos_Array.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/OddPos_Array/OddPos_Array/obj/Debug/net7.0/OddPos_Array.dll
+/Users/aniket/Projects/OddPos_Array/OddPos_Array/obj/Debug/net7.0/refint/OddPos_Array.dll
+/Users/aniket/Projects/OddPos_Array/OddPos_Array/obj/Debug/net7.0/OddPos_Array.pdb
+/Users/aniket/Projects/OddPos_Array/OddPos_Array/obj/Debug/net7.0/OddPos_Array.genruntimeconfig.cache
+/Users/aniket/Projects/OddPos_Array/OddPos_Array/obj/Debug/net7.0/ref/OddPos_Array.dll

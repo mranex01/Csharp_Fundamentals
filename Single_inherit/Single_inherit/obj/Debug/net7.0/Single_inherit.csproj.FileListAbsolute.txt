@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Single_inherit/Single_inherit/obj/Debug/net7.0/Single_inherit.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Single_inherit/Single_inherit/obj/Debug/net7.0/Single_inherit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Single_inherit/Single_inherit/obj/Debug/net7.0/Single_inherit.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Single_inherit/Single_inherit/obj/Debug/net7.0/Single_inherit.AssemblyInfo.cs
+/Users/aniket/Projects/Single_inherit/Single_inherit/obj/Debug/net7.0/Single_inherit.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Single_inherit/Single_inherit/bin/Debug/net7.0/Single_inherit
+/Users/aniket/Projects/Single_inherit/Single_inherit/bin/Debug/net7.0/Single_inherit.deps.json
+/Users/aniket/Projects/Single_inherit/Single_inherit/bin/Debug/net7.0/Single_inherit.runtimeconfig.json
+/Users/aniket/Projects/Single_inherit/Single_inherit/bin/Debug/net7.0/Single_inherit.dll
+/Users/aniket/Projects/Single_inherit/Single_inherit/bin/Debug/net7.0/Single_inherit.pdb
+/Users/aniket/Projects/Single_inherit/Single_inherit/obj/Debug/net7.0/Single_inherit.dll
+/Users/aniket/Projects/Single_inherit/Single_inherit/obj/Debug/net7.0/refint/Single_inherit.dll
+/Users/aniket/Projects/Single_inherit/Single_inherit/obj/Debug/net7.0/Single_inherit.pdb
+/Users/aniket/Projects/Single_inherit/Single_inherit/obj/Debug/net7.0/Single_inherit.genruntimeconfig.cache
+/Users/aniket/Projects/Single_inherit/Single_inherit/obj/Debug/net7.0/ref/Single_inherit.dll

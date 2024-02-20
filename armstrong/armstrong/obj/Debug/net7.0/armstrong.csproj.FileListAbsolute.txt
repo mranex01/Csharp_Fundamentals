@@ -1,0 +1,15 @@
+/Users/aniket/Projects/armstrong/armstrong/bin/Debug/net7.0/armstrong
+/Users/aniket/Projects/armstrong/armstrong/bin/Debug/net7.0/armstrong.deps.json
+/Users/aniket/Projects/armstrong/armstrong/bin/Debug/net7.0/armstrong.runtimeconfig.json
+/Users/aniket/Projects/armstrong/armstrong/bin/Debug/net7.0/armstrong.dll
+/Users/aniket/Projects/armstrong/armstrong/bin/Debug/net7.0/armstrong.pdb
+/Users/aniket/Projects/armstrong/armstrong/obj/Debug/net7.0/armstrong.csproj.AssemblyReference.cache
+/Users/aniket/Projects/armstrong/armstrong/obj/Debug/net7.0/armstrong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/armstrong/armstrong/obj/Debug/net7.0/armstrong.AssemblyInfoInputs.cache
+/Users/aniket/Projects/armstrong/armstrong/obj/Debug/net7.0/armstrong.AssemblyInfo.cs
+/Users/aniket/Projects/armstrong/armstrong/obj/Debug/net7.0/armstrong.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/armstrong/armstrong/obj/Debug/net7.0/armstrong.dll
+/Users/aniket/Projects/armstrong/armstrong/obj/Debug/net7.0/refint/armstrong.dll
+/Users/aniket/Projects/armstrong/armstrong/obj/Debug/net7.0/armstrong.pdb
+/Users/aniket/Projects/armstrong/armstrong/obj/Debug/net7.0/armstrong.genruntimeconfig.cache
+/Users/aniket/Projects/armstrong/armstrong/obj/Debug/net7.0/ref/armstrong.dll

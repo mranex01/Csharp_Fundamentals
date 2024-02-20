@@ -1,0 +1,15 @@
+/Users/aniket/Projects/StreamWriter_Demo/StreamWriter_Demo/bin/Debug/net7.0/StreamWriter_Demo
+/Users/aniket/Projects/StreamWriter_Demo/StreamWriter_Demo/bin/Debug/net7.0/StreamWriter_Demo.deps.json
+/Users/aniket/Projects/StreamWriter_Demo/StreamWriter_Demo/bin/Debug/net7.0/StreamWriter_Demo.runtimeconfig.json
+/Users/aniket/Projects/StreamWriter_Demo/StreamWriter_Demo/bin/Debug/net7.0/StreamWriter_Demo.dll
+/Users/aniket/Projects/StreamWriter_Demo/StreamWriter_Demo/bin/Debug/net7.0/StreamWriter_Demo.pdb
+/Users/aniket/Projects/StreamWriter_Demo/StreamWriter_Demo/obj/Debug/net7.0/StreamWriter_Demo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/StreamWriter_Demo/StreamWriter_Demo/obj/Debug/net7.0/StreamWriter_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/StreamWriter_Demo/StreamWriter_Demo/obj/Debug/net7.0/StreamWriter_Demo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/StreamWriter_Demo/StreamWriter_Demo/obj/Debug/net7.0/StreamWriter_Demo.AssemblyInfo.cs
+/Users/aniket/Projects/StreamWriter_Demo/StreamWriter_Demo/obj/Debug/net7.0/StreamWriter_Demo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/StreamWriter_Demo/StreamWriter_Demo/obj/Debug/net7.0/StreamWriter_Demo.dll
+/Users/aniket/Projects/StreamWriter_Demo/StreamWriter_Demo/obj/Debug/net7.0/refint/StreamWriter_Demo.dll
+/Users/aniket/Projects/StreamWriter_Demo/StreamWriter_Demo/obj/Debug/net7.0/StreamWriter_Demo.pdb
+/Users/aniket/Projects/StreamWriter_Demo/StreamWriter_Demo/obj/Debug/net7.0/StreamWriter_Demo.genruntimeconfig.cache
+/Users/aniket/Projects/StreamWriter_Demo/StreamWriter_Demo/obj/Debug/net7.0/ref/StreamWriter_Demo.dll

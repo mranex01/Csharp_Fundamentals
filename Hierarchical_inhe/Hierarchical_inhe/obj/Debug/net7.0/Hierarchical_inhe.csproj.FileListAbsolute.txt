@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Hierarchical_inhe/Hierarchical_inhe/bin/Debug/net7.0/Hierarchical_inhe
+/Users/aniket/Projects/Hierarchical_inhe/Hierarchical_inhe/bin/Debug/net7.0/Hierarchical_inhe.deps.json
+/Users/aniket/Projects/Hierarchical_inhe/Hierarchical_inhe/bin/Debug/net7.0/Hierarchical_inhe.runtimeconfig.json
+/Users/aniket/Projects/Hierarchical_inhe/Hierarchical_inhe/bin/Debug/net7.0/Hierarchical_inhe.dll
+/Users/aniket/Projects/Hierarchical_inhe/Hierarchical_inhe/bin/Debug/net7.0/Hierarchical_inhe.pdb
+/Users/aniket/Projects/Hierarchical_inhe/Hierarchical_inhe/obj/Debug/net7.0/Hierarchical_inhe.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Hierarchical_inhe/Hierarchical_inhe/obj/Debug/net7.0/Hierarchical_inhe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Hierarchical_inhe/Hierarchical_inhe/obj/Debug/net7.0/Hierarchical_inhe.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Hierarchical_inhe/Hierarchical_inhe/obj/Debug/net7.0/Hierarchical_inhe.AssemblyInfo.cs
+/Users/aniket/Projects/Hierarchical_inhe/Hierarchical_inhe/obj/Debug/net7.0/Hierarchical_inhe.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Hierarchical_inhe/Hierarchical_inhe/obj/Debug/net7.0/Hierarchical_inhe.dll
+/Users/aniket/Projects/Hierarchical_inhe/Hierarchical_inhe/obj/Debug/net7.0/refint/Hierarchical_inhe.dll
+/Users/aniket/Projects/Hierarchical_inhe/Hierarchical_inhe/obj/Debug/net7.0/Hierarchical_inhe.pdb
+/Users/aniket/Projects/Hierarchical_inhe/Hierarchical_inhe/obj/Debug/net7.0/Hierarchical_inhe.genruntimeconfig.cache
+/Users/aniket/Projects/Hierarchical_inhe/Hierarchical_inhe/obj/Debug/net7.0/ref/Hierarchical_inhe.dll

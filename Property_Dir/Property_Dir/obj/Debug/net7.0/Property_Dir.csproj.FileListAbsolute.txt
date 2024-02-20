@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Property_Dir/Property_Dir/bin/Debug/net7.0/Property_Dir
+/Users/aniket/Projects/Property_Dir/Property_Dir/bin/Debug/net7.0/Property_Dir.deps.json
+/Users/aniket/Projects/Property_Dir/Property_Dir/bin/Debug/net7.0/Property_Dir.runtimeconfig.json
+/Users/aniket/Projects/Property_Dir/Property_Dir/bin/Debug/net7.0/Property_Dir.dll
+/Users/aniket/Projects/Property_Dir/Property_Dir/bin/Debug/net7.0/Property_Dir.pdb
+/Users/aniket/Projects/Property_Dir/Property_Dir/obj/Debug/net7.0/Property_Dir.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Property_Dir/Property_Dir/obj/Debug/net7.0/Property_Dir.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Property_Dir/Property_Dir/obj/Debug/net7.0/Property_Dir.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Property_Dir/Property_Dir/obj/Debug/net7.0/Property_Dir.AssemblyInfo.cs
+/Users/aniket/Projects/Property_Dir/Property_Dir/obj/Debug/net7.0/Property_Dir.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Property_Dir/Property_Dir/obj/Debug/net7.0/Property_Dir.dll
+/Users/aniket/Projects/Property_Dir/Property_Dir/obj/Debug/net7.0/refint/Property_Dir.dll
+/Users/aniket/Projects/Property_Dir/Property_Dir/obj/Debug/net7.0/Property_Dir.pdb
+/Users/aniket/Projects/Property_Dir/Property_Dir/obj/Debug/net7.0/Property_Dir.genruntimeconfig.cache
+/Users/aniket/Projects/Property_Dir/Property_Dir/obj/Debug/net7.0/ref/Property_Dir.dll

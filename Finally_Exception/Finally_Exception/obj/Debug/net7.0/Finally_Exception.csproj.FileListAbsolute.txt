@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Finally_Exception/Finally_Exception/bin/Debug/net7.0/Finally_Exception
+/Users/aniket/Projects/Finally_Exception/Finally_Exception/bin/Debug/net7.0/Finally_Exception.deps.json
+/Users/aniket/Projects/Finally_Exception/Finally_Exception/bin/Debug/net7.0/Finally_Exception.runtimeconfig.json
+/Users/aniket/Projects/Finally_Exception/Finally_Exception/bin/Debug/net7.0/Finally_Exception.dll
+/Users/aniket/Projects/Finally_Exception/Finally_Exception/bin/Debug/net7.0/Finally_Exception.pdb
+/Users/aniket/Projects/Finally_Exception/Finally_Exception/obj/Debug/net7.0/Finally_Exception.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Finally_Exception/Finally_Exception/obj/Debug/net7.0/Finally_Exception.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Finally_Exception/Finally_Exception/obj/Debug/net7.0/Finally_Exception.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Finally_Exception/Finally_Exception/obj/Debug/net7.0/Finally_Exception.AssemblyInfo.cs
+/Users/aniket/Projects/Finally_Exception/Finally_Exception/obj/Debug/net7.0/Finally_Exception.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Finally_Exception/Finally_Exception/obj/Debug/net7.0/Finally_Exception.dll
+/Users/aniket/Projects/Finally_Exception/Finally_Exception/obj/Debug/net7.0/refint/Finally_Exception.dll
+/Users/aniket/Projects/Finally_Exception/Finally_Exception/obj/Debug/net7.0/Finally_Exception.pdb
+/Users/aniket/Projects/Finally_Exception/Finally_Exception/obj/Debug/net7.0/Finally_Exception.genruntimeconfig.cache
+/Users/aniket/Projects/Finally_Exception/Finally_Exception/obj/Debug/net7.0/ref/Finally_Exception.dll

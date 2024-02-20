@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Delete_Directory/Delete_Directory/bin/Debug/net7.0/Delete_Directory
+/Users/aniket/Projects/Delete_Directory/Delete_Directory/bin/Debug/net7.0/Delete_Directory.deps.json
+/Users/aniket/Projects/Delete_Directory/Delete_Directory/bin/Debug/net7.0/Delete_Directory.runtimeconfig.json
+/Users/aniket/Projects/Delete_Directory/Delete_Directory/bin/Debug/net7.0/Delete_Directory.dll
+/Users/aniket/Projects/Delete_Directory/Delete_Directory/bin/Debug/net7.0/Delete_Directory.pdb
+/Users/aniket/Projects/Delete_Directory/Delete_Directory/obj/Debug/net7.0/Delete_Directory.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Delete_Directory/Delete_Directory/obj/Debug/net7.0/Delete_Directory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Delete_Directory/Delete_Directory/obj/Debug/net7.0/Delete_Directory.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Delete_Directory/Delete_Directory/obj/Debug/net7.0/Delete_Directory.AssemblyInfo.cs
+/Users/aniket/Projects/Delete_Directory/Delete_Directory/obj/Debug/net7.0/Delete_Directory.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Delete_Directory/Delete_Directory/obj/Debug/net7.0/Delete_Directory.dll
+/Users/aniket/Projects/Delete_Directory/Delete_Directory/obj/Debug/net7.0/refint/Delete_Directory.dll
+/Users/aniket/Projects/Delete_Directory/Delete_Directory/obj/Debug/net7.0/Delete_Directory.pdb
+/Users/aniket/Projects/Delete_Directory/Delete_Directory/obj/Debug/net7.0/Delete_Directory.genruntimeconfig.cache
+/Users/aniket/Projects/Delete_Directory/Delete_Directory/obj/Debug/net7.0/ref/Delete_Directory.dll

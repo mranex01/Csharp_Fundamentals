@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Descending_Array/Descending_Array/bin/Debug/net7.0/Descending_Array
+/Users/aniket/Projects/Descending_Array/Descending_Array/bin/Debug/net7.0/Descending_Array.deps.json
+/Users/aniket/Projects/Descending_Array/Descending_Array/bin/Debug/net7.0/Descending_Array.runtimeconfig.json
+/Users/aniket/Projects/Descending_Array/Descending_Array/bin/Debug/net7.0/Descending_Array.dll
+/Users/aniket/Projects/Descending_Array/Descending_Array/bin/Debug/net7.0/Descending_Array.pdb
+/Users/aniket/Projects/Descending_Array/Descending_Array/obj/Debug/net7.0/Descending_Array.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Descending_Array/Descending_Array/obj/Debug/net7.0/Descending_Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Descending_Array/Descending_Array/obj/Debug/net7.0/Descending_Array.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Descending_Array/Descending_Array/obj/Debug/net7.0/Descending_Array.AssemblyInfo.cs
+/Users/aniket/Projects/Descending_Array/Descending_Array/obj/Debug/net7.0/Descending_Array.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Descending_Array/Descending_Array/obj/Debug/net7.0/Descending_Array.dll
+/Users/aniket/Projects/Descending_Array/Descending_Array/obj/Debug/net7.0/refint/Descending_Array.dll
+/Users/aniket/Projects/Descending_Array/Descending_Array/obj/Debug/net7.0/Descending_Array.pdb
+/Users/aniket/Projects/Descending_Array/Descending_Array/obj/Debug/net7.0/Descending_Array.genruntimeconfig.cache
+/Users/aniket/Projects/Descending_Array/Descending_Array/obj/Debug/net7.0/ref/Descending_Array.dll

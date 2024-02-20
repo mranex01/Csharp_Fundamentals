@@ -1,0 +1,15 @@
+/Users/aniket/Projects/RestartingDemo/RestartingDemo/bin/Debug/net7.0/RestartingDemo
+/Users/aniket/Projects/RestartingDemo/RestartingDemo/bin/Debug/net7.0/RestartingDemo.deps.json
+/Users/aniket/Projects/RestartingDemo/RestartingDemo/bin/Debug/net7.0/RestartingDemo.runtimeconfig.json
+/Users/aniket/Projects/RestartingDemo/RestartingDemo/bin/Debug/net7.0/RestartingDemo.dll
+/Users/aniket/Projects/RestartingDemo/RestartingDemo/bin/Debug/net7.0/RestartingDemo.pdb
+/Users/aniket/Projects/RestartingDemo/RestartingDemo/obj/Debug/net7.0/RestartingDemo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/RestartingDemo/RestartingDemo/obj/Debug/net7.0/RestartingDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/RestartingDemo/RestartingDemo/obj/Debug/net7.0/RestartingDemo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/RestartingDemo/RestartingDemo/obj/Debug/net7.0/RestartingDemo.AssemblyInfo.cs
+/Users/aniket/Projects/RestartingDemo/RestartingDemo/obj/Debug/net7.0/RestartingDemo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/RestartingDemo/RestartingDemo/obj/Debug/net7.0/RestartingDemo.dll
+/Users/aniket/Projects/RestartingDemo/RestartingDemo/obj/Debug/net7.0/refint/RestartingDemo.dll
+/Users/aniket/Projects/RestartingDemo/RestartingDemo/obj/Debug/net7.0/RestartingDemo.pdb
+/Users/aniket/Projects/RestartingDemo/RestartingDemo/obj/Debug/net7.0/RestartingDemo.genruntimeconfig.cache
+/Users/aniket/Projects/RestartingDemo/RestartingDemo/obj/Debug/net7.0/ref/RestartingDemo.dll

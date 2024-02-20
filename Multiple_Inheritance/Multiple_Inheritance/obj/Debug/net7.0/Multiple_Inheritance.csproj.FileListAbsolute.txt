@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Multiple_Inheritance/Multiple_Inheritance/bin/Debug/net7.0/Multiple_Inheritance
+/Users/aniket/Projects/Multiple_Inheritance/Multiple_Inheritance/bin/Debug/net7.0/Multiple_Inheritance.deps.json
+/Users/aniket/Projects/Multiple_Inheritance/Multiple_Inheritance/bin/Debug/net7.0/Multiple_Inheritance.runtimeconfig.json
+/Users/aniket/Projects/Multiple_Inheritance/Multiple_Inheritance/bin/Debug/net7.0/Multiple_Inheritance.dll
+/Users/aniket/Projects/Multiple_Inheritance/Multiple_Inheritance/bin/Debug/net7.0/Multiple_Inheritance.pdb
+/Users/aniket/Projects/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net7.0/Multiple_Inheritance.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net7.0/Multiple_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net7.0/Multiple_Inheritance.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net7.0/Multiple_Inheritance.AssemblyInfo.cs
+/Users/aniket/Projects/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net7.0/Multiple_Inheritance.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net7.0/Multiple_Inheritance.dll
+/Users/aniket/Projects/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net7.0/refint/Multiple_Inheritance.dll
+/Users/aniket/Projects/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net7.0/Multiple_Inheritance.pdb
+/Users/aniket/Projects/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net7.0/Multiple_Inheritance.genruntimeconfig.cache
+/Users/aniket/Projects/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net7.0/ref/Multiple_Inheritance.dll

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{63DFB1A1-4011-412B-B7C5-78C17C670275}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Parameterized_Constructor/Employee.cs">
+    <Files>
+      <File FileName="Parameterized_Constructor/Program.cs" Line="25" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Parameterized_Constructor" expanded="True">
+            <Node name="Parameterized_Constructor" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Parameterized__Constructor PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

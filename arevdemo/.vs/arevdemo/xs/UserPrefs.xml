@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{B6AC4860-FFB4-4718-BCA6-CE5882F20E99}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.arevdemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="arevdemo/Program.cs">
+    <Files>
+      <File FileName="arevdemo/Program.cs" Line="13" Column="45" />
+      <File FileName="../Reverese_Array/Reverese_Array/Program.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

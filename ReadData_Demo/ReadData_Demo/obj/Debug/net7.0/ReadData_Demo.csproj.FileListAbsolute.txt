@@ -1,0 +1,15 @@
+/Users/aniket/Projects/ReadData_Demo/ReadData_Demo/bin/Debug/net7.0/ReadData_Demo
+/Users/aniket/Projects/ReadData_Demo/ReadData_Demo/bin/Debug/net7.0/ReadData_Demo.deps.json
+/Users/aniket/Projects/ReadData_Demo/ReadData_Demo/bin/Debug/net7.0/ReadData_Demo.runtimeconfig.json
+/Users/aniket/Projects/ReadData_Demo/ReadData_Demo/bin/Debug/net7.0/ReadData_Demo.dll
+/Users/aniket/Projects/ReadData_Demo/ReadData_Demo/bin/Debug/net7.0/ReadData_Demo.pdb
+/Users/aniket/Projects/ReadData_Demo/ReadData_Demo/obj/Debug/net7.0/ReadData_Demo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/ReadData_Demo/ReadData_Demo/obj/Debug/net7.0/ReadData_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/ReadData_Demo/ReadData_Demo/obj/Debug/net7.0/ReadData_Demo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/ReadData_Demo/ReadData_Demo/obj/Debug/net7.0/ReadData_Demo.AssemblyInfo.cs
+/Users/aniket/Projects/ReadData_Demo/ReadData_Demo/obj/Debug/net7.0/ReadData_Demo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/ReadData_Demo/ReadData_Demo/obj/Debug/net7.0/ReadData_Demo.dll
+/Users/aniket/Projects/ReadData_Demo/ReadData_Demo/obj/Debug/net7.0/refint/ReadData_Demo.dll
+/Users/aniket/Projects/ReadData_Demo/ReadData_Demo/obj/Debug/net7.0/ReadData_Demo.pdb
+/Users/aniket/Projects/ReadData_Demo/ReadData_Demo/obj/Debug/net7.0/ReadData_Demo.genruntimeconfig.cache
+/Users/aniket/Projects/ReadData_Demo/ReadData_Demo/obj/Debug/net7.0/ref/ReadData_Demo.dll

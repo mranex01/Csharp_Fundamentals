@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Throw_Exception/Throw_Exception/bin/Debug/net7.0/Throw_Exception
+/Users/aniket/Projects/Throw_Exception/Throw_Exception/bin/Debug/net7.0/Throw_Exception.deps.json
+/Users/aniket/Projects/Throw_Exception/Throw_Exception/bin/Debug/net7.0/Throw_Exception.runtimeconfig.json
+/Users/aniket/Projects/Throw_Exception/Throw_Exception/bin/Debug/net7.0/Throw_Exception.dll
+/Users/aniket/Projects/Throw_Exception/Throw_Exception/bin/Debug/net7.0/Throw_Exception.pdb
+/Users/aniket/Projects/Throw_Exception/Throw_Exception/obj/Debug/net7.0/Throw_Exception.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Throw_Exception/Throw_Exception/obj/Debug/net7.0/Throw_Exception.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Throw_Exception/Throw_Exception/obj/Debug/net7.0/Throw_Exception.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Throw_Exception/Throw_Exception/obj/Debug/net7.0/Throw_Exception.AssemblyInfo.cs
+/Users/aniket/Projects/Throw_Exception/Throw_Exception/obj/Debug/net7.0/Throw_Exception.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Throw_Exception/Throw_Exception/obj/Debug/net7.0/Throw_Exception.dll
+/Users/aniket/Projects/Throw_Exception/Throw_Exception/obj/Debug/net7.0/refint/Throw_Exception.dll
+/Users/aniket/Projects/Throw_Exception/Throw_Exception/obj/Debug/net7.0/Throw_Exception.pdb
+/Users/aniket/Projects/Throw_Exception/Throw_Exception/obj/Debug/net7.0/Throw_Exception.genruntimeconfig.cache
+/Users/aniket/Projects/Throw_Exception/Throw_Exception/obj/Debug/net7.0/ref/Throw_Exception.dll

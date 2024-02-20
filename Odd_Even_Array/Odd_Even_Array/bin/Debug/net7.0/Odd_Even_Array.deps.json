@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Odd_Even_Array/1.0.0": {
+        "runtime": {
+          "Odd_Even_Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Odd_Even_Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

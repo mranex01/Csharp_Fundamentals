@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Palindrome/Palindrome/bin/Debug/net7.0/Palindrome
+/Users/aniket/Projects/Palindrome/Palindrome/bin/Debug/net7.0/Palindrome.deps.json
+/Users/aniket/Projects/Palindrome/Palindrome/bin/Debug/net7.0/Palindrome.runtimeconfig.json
+/Users/aniket/Projects/Palindrome/Palindrome/bin/Debug/net7.0/Palindrome.dll
+/Users/aniket/Projects/Palindrome/Palindrome/bin/Debug/net7.0/Palindrome.pdb
+/Users/aniket/Projects/Palindrome/Palindrome/obj/Debug/net7.0/Palindrome.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Palindrome/Palindrome/obj/Debug/net7.0/Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Palindrome/Palindrome/obj/Debug/net7.0/Palindrome.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Palindrome/Palindrome/obj/Debug/net7.0/Palindrome.AssemblyInfo.cs
+/Users/aniket/Projects/Palindrome/Palindrome/obj/Debug/net7.0/Palindrome.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Palindrome/Palindrome/obj/Debug/net7.0/Palindrome.dll
+/Users/aniket/Projects/Palindrome/Palindrome/obj/Debug/net7.0/refint/Palindrome.dll
+/Users/aniket/Projects/Palindrome/Palindrome/obj/Debug/net7.0/Palindrome.pdb
+/Users/aniket/Projects/Palindrome/Palindrome/obj/Debug/net7.0/Palindrome.genruntimeconfig.cache
+/Users/aniket/Projects/Palindrome/Palindrome/obj/Debug/net7.0/ref/Palindrome.dll

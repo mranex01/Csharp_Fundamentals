@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Class_Object_demo/Class_Object_demo/obj/Debug/net7.0/Class_Object_demo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Class_Object_demo/Class_Object_demo/obj/Debug/net7.0/Class_Object_demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Class_Object_demo/Class_Object_demo/obj/Debug/net7.0/Class_Object_demo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Class_Object_demo/Class_Object_demo/obj/Debug/net7.0/Class_Object_demo.AssemblyInfo.cs
+/Users/aniket/Projects/Class_Object_demo/Class_Object_demo/obj/Debug/net7.0/Class_Object_demo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Class_Object_demo/Class_Object_demo/bin/Debug/net7.0/Class_Object_demo
+/Users/aniket/Projects/Class_Object_demo/Class_Object_demo/bin/Debug/net7.0/Class_Object_demo.deps.json
+/Users/aniket/Projects/Class_Object_demo/Class_Object_demo/bin/Debug/net7.0/Class_Object_demo.runtimeconfig.json
+/Users/aniket/Projects/Class_Object_demo/Class_Object_demo/bin/Debug/net7.0/Class_Object_demo.dll
+/Users/aniket/Projects/Class_Object_demo/Class_Object_demo/bin/Debug/net7.0/Class_Object_demo.pdb
+/Users/aniket/Projects/Class_Object_demo/Class_Object_demo/obj/Debug/net7.0/Class_Object_demo.dll
+/Users/aniket/Projects/Class_Object_demo/Class_Object_demo/obj/Debug/net7.0/refint/Class_Object_demo.dll
+/Users/aniket/Projects/Class_Object_demo/Class_Object_demo/obj/Debug/net7.0/Class_Object_demo.pdb
+/Users/aniket/Projects/Class_Object_demo/Class_Object_demo/obj/Debug/net7.0/Class_Object_demo.genruntimeconfig.cache
+/Users/aniket/Projects/Class_Object_demo/Class_Object_demo/obj/Debug/net7.0/ref/Class_Object_demo.dll

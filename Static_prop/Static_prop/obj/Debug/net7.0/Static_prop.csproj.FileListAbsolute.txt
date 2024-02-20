@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Static_prop/Static_prop/bin/Debug/net7.0/Static_prop
+/Users/aniket/Projects/Static_prop/Static_prop/bin/Debug/net7.0/Static_prop.deps.json
+/Users/aniket/Projects/Static_prop/Static_prop/bin/Debug/net7.0/Static_prop.runtimeconfig.json
+/Users/aniket/Projects/Static_prop/Static_prop/bin/Debug/net7.0/Static_prop.dll
+/Users/aniket/Projects/Static_prop/Static_prop/bin/Debug/net7.0/Static_prop.pdb
+/Users/aniket/Projects/Static_prop/Static_prop/obj/Debug/net7.0/Static_prop.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Static_prop/Static_prop/obj/Debug/net7.0/Static_prop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Static_prop/Static_prop/obj/Debug/net7.0/Static_prop.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Static_prop/Static_prop/obj/Debug/net7.0/Static_prop.AssemblyInfo.cs
+/Users/aniket/Projects/Static_prop/Static_prop/obj/Debug/net7.0/Static_prop.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Static_prop/Static_prop/obj/Debug/net7.0/Static_prop.dll
+/Users/aniket/Projects/Static_prop/Static_prop/obj/Debug/net7.0/refint/Static_prop.dll
+/Users/aniket/Projects/Static_prop/Static_prop/obj/Debug/net7.0/Static_prop.pdb
+/Users/aniket/Projects/Static_prop/Static_prop/obj/Debug/net7.0/Static_prop.genruntimeconfig.cache
+/Users/aniket/Projects/Static_prop/Static_prop/obj/Debug/net7.0/ref/Static_prop.dll

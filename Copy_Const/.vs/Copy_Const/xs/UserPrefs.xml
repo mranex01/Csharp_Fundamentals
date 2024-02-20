@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{F3FF5F7E-F0F8-40F5-B786-47DCAA53E449}|Default">
+  <MonoDevelop.Ide.ItemProperties.Copy__Const PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Copy_Const/Program.cs">
+    <Files>
+      <File FileName="Copy_Const/Program.cs" Line="30" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Copy_Const" expanded="True">
+            <Node name="Copy_Const" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

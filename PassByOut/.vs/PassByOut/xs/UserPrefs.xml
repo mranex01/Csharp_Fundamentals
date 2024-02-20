@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{FCF9D5DC-5EE9-4D9D-ACFE-B6C42D6E623F}|Default">
+  <MonoDevelop.Ide.ItemProperties.PassByOut PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PassByOut/Program.cs">
+    <Files>
+      <File FileName="PassByOut/Program.cs" Line="14" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PassByOut" expanded="True">
+            <Node name="PassByOut" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

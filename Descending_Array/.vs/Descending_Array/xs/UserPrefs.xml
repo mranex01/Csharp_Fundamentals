@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{EB6D6826-AF47-4367-8339-E0876442CBC8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Descending_Array/Program.cs">
+    <Files>
+      <File FileName="Descending_Array/Program.cs" Line="22" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Descending_Array" expanded="True">
+            <Node name="Descending_Array" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Descending__Array PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

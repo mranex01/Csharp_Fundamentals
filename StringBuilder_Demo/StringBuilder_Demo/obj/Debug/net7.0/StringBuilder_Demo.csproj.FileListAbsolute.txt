@@ -1,0 +1,15 @@
+/Users/aniket/Projects/StringBuilder_Demo/StringBuilder_Demo/bin/Debug/net7.0/StringBuilder_Demo
+/Users/aniket/Projects/StringBuilder_Demo/StringBuilder_Demo/bin/Debug/net7.0/StringBuilder_Demo.deps.json
+/Users/aniket/Projects/StringBuilder_Demo/StringBuilder_Demo/bin/Debug/net7.0/StringBuilder_Demo.runtimeconfig.json
+/Users/aniket/Projects/StringBuilder_Demo/StringBuilder_Demo/bin/Debug/net7.0/StringBuilder_Demo.dll
+/Users/aniket/Projects/StringBuilder_Demo/StringBuilder_Demo/bin/Debug/net7.0/StringBuilder_Demo.pdb
+/Users/aniket/Projects/StringBuilder_Demo/StringBuilder_Demo/obj/Debug/net7.0/StringBuilder_Demo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/StringBuilder_Demo/StringBuilder_Demo/obj/Debug/net7.0/StringBuilder_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/StringBuilder_Demo/StringBuilder_Demo/obj/Debug/net7.0/StringBuilder_Demo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/StringBuilder_Demo/StringBuilder_Demo/obj/Debug/net7.0/StringBuilder_Demo.AssemblyInfo.cs
+/Users/aniket/Projects/StringBuilder_Demo/StringBuilder_Demo/obj/Debug/net7.0/StringBuilder_Demo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/StringBuilder_Demo/StringBuilder_Demo/obj/Debug/net7.0/StringBuilder_Demo.dll
+/Users/aniket/Projects/StringBuilder_Demo/StringBuilder_Demo/obj/Debug/net7.0/refint/StringBuilder_Demo.dll
+/Users/aniket/Projects/StringBuilder_Demo/StringBuilder_Demo/obj/Debug/net7.0/StringBuilder_Demo.pdb
+/Users/aniket/Projects/StringBuilder_Demo/StringBuilder_Demo/obj/Debug/net7.0/StringBuilder_Demo.genruntimeconfig.cache
+/Users/aniket/Projects/StringBuilder_Demo/StringBuilder_Demo/obj/Debug/net7.0/ref/StringBuilder_Demo.dll

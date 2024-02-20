@@ -1,0 +1,15 @@
+/Users/aniket/Projects/SwapToNO/SwapToNO/bin/Debug/net7.0/SwapToNO
+/Users/aniket/Projects/SwapToNO/SwapToNO/bin/Debug/net7.0/SwapToNO.deps.json
+/Users/aniket/Projects/SwapToNO/SwapToNO/bin/Debug/net7.0/SwapToNO.runtimeconfig.json
+/Users/aniket/Projects/SwapToNO/SwapToNO/bin/Debug/net7.0/SwapToNO.dll
+/Users/aniket/Projects/SwapToNO/SwapToNO/bin/Debug/net7.0/SwapToNO.pdb
+/Users/aniket/Projects/SwapToNO/SwapToNO/obj/Debug/net7.0/SwapToNO.csproj.AssemblyReference.cache
+/Users/aniket/Projects/SwapToNO/SwapToNO/obj/Debug/net7.0/SwapToNO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/SwapToNO/SwapToNO/obj/Debug/net7.0/SwapToNO.AssemblyInfoInputs.cache
+/Users/aniket/Projects/SwapToNO/SwapToNO/obj/Debug/net7.0/SwapToNO.AssemblyInfo.cs
+/Users/aniket/Projects/SwapToNO/SwapToNO/obj/Debug/net7.0/SwapToNO.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/SwapToNO/SwapToNO/obj/Debug/net7.0/SwapToNO.dll
+/Users/aniket/Projects/SwapToNO/SwapToNO/obj/Debug/net7.0/refint/SwapToNO.dll
+/Users/aniket/Projects/SwapToNO/SwapToNO/obj/Debug/net7.0/SwapToNO.pdb
+/Users/aniket/Projects/SwapToNO/SwapToNO/obj/Debug/net7.0/SwapToNO.genruntimeconfig.cache
+/Users/aniket/Projects/SwapToNO/SwapToNO/obj/Debug/net7.0/ref/SwapToNO.dll

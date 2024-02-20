@@ -1,0 +1,15 @@
+/Users/aniket/Projects/ArrayEx/ArrayEx/obj/Debug/net7.0/ArrayEx.csproj.AssemblyReference.cache
+/Users/aniket/Projects/ArrayEx/ArrayEx/obj/Debug/net7.0/ArrayEx.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/ArrayEx/ArrayEx/obj/Debug/net7.0/ArrayEx.AssemblyInfoInputs.cache
+/Users/aniket/Projects/ArrayEx/ArrayEx/obj/Debug/net7.0/ArrayEx.AssemblyInfo.cs
+/Users/aniket/Projects/ArrayEx/ArrayEx/obj/Debug/net7.0/ArrayEx.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/ArrayEx/ArrayEx/bin/Debug/net7.0/ArrayEx
+/Users/aniket/Projects/ArrayEx/ArrayEx/bin/Debug/net7.0/ArrayEx.deps.json
+/Users/aniket/Projects/ArrayEx/ArrayEx/bin/Debug/net7.0/ArrayEx.runtimeconfig.json
+/Users/aniket/Projects/ArrayEx/ArrayEx/bin/Debug/net7.0/ArrayEx.dll
+/Users/aniket/Projects/ArrayEx/ArrayEx/bin/Debug/net7.0/ArrayEx.pdb
+/Users/aniket/Projects/ArrayEx/ArrayEx/obj/Debug/net7.0/ArrayEx.dll
+/Users/aniket/Projects/ArrayEx/ArrayEx/obj/Debug/net7.0/refint/ArrayEx.dll
+/Users/aniket/Projects/ArrayEx/ArrayEx/obj/Debug/net7.0/ArrayEx.pdb
+/Users/aniket/Projects/ArrayEx/ArrayEx/obj/Debug/net7.0/ArrayEx.genruntimeconfig.cache
+/Users/aniket/Projects/ArrayEx/ArrayEx/obj/Debug/net7.0/ref/ArrayEx.dll

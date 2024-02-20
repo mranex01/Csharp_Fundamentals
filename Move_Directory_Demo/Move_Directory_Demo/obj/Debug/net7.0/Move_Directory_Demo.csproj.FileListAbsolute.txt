@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Move_Directory_Demo/Move_Directory_Demo/bin/Debug/net7.0/Move_Directory_Demo
+/Users/aniket/Projects/Move_Directory_Demo/Move_Directory_Demo/bin/Debug/net7.0/Move_Directory_Demo.deps.json
+/Users/aniket/Projects/Move_Directory_Demo/Move_Directory_Demo/bin/Debug/net7.0/Move_Directory_Demo.runtimeconfig.json
+/Users/aniket/Projects/Move_Directory_Demo/Move_Directory_Demo/bin/Debug/net7.0/Move_Directory_Demo.dll
+/Users/aniket/Projects/Move_Directory_Demo/Move_Directory_Demo/bin/Debug/net7.0/Move_Directory_Demo.pdb
+/Users/aniket/Projects/Move_Directory_Demo/Move_Directory_Demo/obj/Debug/net7.0/Move_Directory_Demo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Move_Directory_Demo/Move_Directory_Demo/obj/Debug/net7.0/Move_Directory_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Move_Directory_Demo/Move_Directory_Demo/obj/Debug/net7.0/Move_Directory_Demo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Move_Directory_Demo/Move_Directory_Demo/obj/Debug/net7.0/Move_Directory_Demo.AssemblyInfo.cs
+/Users/aniket/Projects/Move_Directory_Demo/Move_Directory_Demo/obj/Debug/net7.0/Move_Directory_Demo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Move_Directory_Demo/Move_Directory_Demo/obj/Debug/net7.0/Move_Directory_Demo.dll
+/Users/aniket/Projects/Move_Directory_Demo/Move_Directory_Demo/obj/Debug/net7.0/refint/Move_Directory_Demo.dll
+/Users/aniket/Projects/Move_Directory_Demo/Move_Directory_Demo/obj/Debug/net7.0/Move_Directory_Demo.pdb
+/Users/aniket/Projects/Move_Directory_Demo/Move_Directory_Demo/obj/Debug/net7.0/Move_Directory_Demo.genruntimeconfig.cache
+/Users/aniket/Projects/Move_Directory_Demo/Move_Directory_Demo/obj/Debug/net7.0/ref/Move_Directory_Demo.dll

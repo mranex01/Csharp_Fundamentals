@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{57BCD1C4-C2B1-4751-85F4-E184EB4021BA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Array/Program.cs">
+    <Files>
+      <File FileName="Array/Program.cs" Line="15" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Array" expanded="True">
+            <Node name="Array_foreach" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Array__foreach PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

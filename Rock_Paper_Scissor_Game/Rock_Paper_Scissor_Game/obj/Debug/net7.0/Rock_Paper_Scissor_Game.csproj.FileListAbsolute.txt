@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Rock_Paper_Scissor_Game/Rock_Paper_Scissor_Game/bin/Debug/net7.0/Rock_Paper_Scissor_Game
+/Users/aniket/Projects/Rock_Paper_Scissor_Game/Rock_Paper_Scissor_Game/bin/Debug/net7.0/Rock_Paper_Scissor_Game.deps.json
+/Users/aniket/Projects/Rock_Paper_Scissor_Game/Rock_Paper_Scissor_Game/bin/Debug/net7.0/Rock_Paper_Scissor_Game.runtimeconfig.json
+/Users/aniket/Projects/Rock_Paper_Scissor_Game/Rock_Paper_Scissor_Game/bin/Debug/net7.0/Rock_Paper_Scissor_Game.dll
+/Users/aniket/Projects/Rock_Paper_Scissor_Game/Rock_Paper_Scissor_Game/bin/Debug/net7.0/Rock_Paper_Scissor_Game.pdb
+/Users/aniket/Projects/Rock_Paper_Scissor_Game/Rock_Paper_Scissor_Game/obj/Debug/net7.0/Rock_Paper_Scissor_Game.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Rock_Paper_Scissor_Game/Rock_Paper_Scissor_Game/obj/Debug/net7.0/Rock_Paper_Scissor_Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Rock_Paper_Scissor_Game/Rock_Paper_Scissor_Game/obj/Debug/net7.0/Rock_Paper_Scissor_Game.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Rock_Paper_Scissor_Game/Rock_Paper_Scissor_Game/obj/Debug/net7.0/Rock_Paper_Scissor_Game.AssemblyInfo.cs
+/Users/aniket/Projects/Rock_Paper_Scissor_Game/Rock_Paper_Scissor_Game/obj/Debug/net7.0/Rock_Paper_Scissor_Game.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Rock_Paper_Scissor_Game/Rock_Paper_Scissor_Game/obj/Debug/net7.0/Rock_Paper_Scissor_Game.dll
+/Users/aniket/Projects/Rock_Paper_Scissor_Game/Rock_Paper_Scissor_Game/obj/Debug/net7.0/refint/Rock_Paper_Scissor_Game.dll
+/Users/aniket/Projects/Rock_Paper_Scissor_Game/Rock_Paper_Scissor_Game/obj/Debug/net7.0/Rock_Paper_Scissor_Game.pdb
+/Users/aniket/Projects/Rock_Paper_Scissor_Game/Rock_Paper_Scissor_Game/obj/Debug/net7.0/Rock_Paper_Scissor_Game.genruntimeconfig.cache
+/Users/aniket/Projects/Rock_Paper_Scissor_Game/Rock_Paper_Scissor_Game/obj/Debug/net7.0/ref/Rock_Paper_Scissor_Game.dll

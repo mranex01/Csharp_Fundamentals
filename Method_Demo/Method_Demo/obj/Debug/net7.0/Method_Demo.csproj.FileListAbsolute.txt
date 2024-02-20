@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Method_Demo/Method_Demo/bin/Debug/net7.0/Method_Demo
+/Users/aniket/Projects/Method_Demo/Method_Demo/bin/Debug/net7.0/Method_Demo.deps.json
+/Users/aniket/Projects/Method_Demo/Method_Demo/bin/Debug/net7.0/Method_Demo.runtimeconfig.json
+/Users/aniket/Projects/Method_Demo/Method_Demo/bin/Debug/net7.0/Method_Demo.dll
+/Users/aniket/Projects/Method_Demo/Method_Demo/bin/Debug/net7.0/Method_Demo.pdb
+/Users/aniket/Projects/Method_Demo/Method_Demo/obj/Debug/net7.0/Method_Demo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Method_Demo/Method_Demo/obj/Debug/net7.0/Method_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Method_Demo/Method_Demo/obj/Debug/net7.0/Method_Demo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Method_Demo/Method_Demo/obj/Debug/net7.0/Method_Demo.AssemblyInfo.cs
+/Users/aniket/Projects/Method_Demo/Method_Demo/obj/Debug/net7.0/Method_Demo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Method_Demo/Method_Demo/obj/Debug/net7.0/Method_Demo.dll
+/Users/aniket/Projects/Method_Demo/Method_Demo/obj/Debug/net7.0/refint/Method_Demo.dll
+/Users/aniket/Projects/Method_Demo/Method_Demo/obj/Debug/net7.0/Method_Demo.pdb
+/Users/aniket/Projects/Method_Demo/Method_Demo/obj/Debug/net7.0/Method_Demo.genruntimeconfig.cache
+/Users/aniket/Projects/Method_Demo/Method_Demo/obj/Debug/net7.0/ref/Method_Demo.dll

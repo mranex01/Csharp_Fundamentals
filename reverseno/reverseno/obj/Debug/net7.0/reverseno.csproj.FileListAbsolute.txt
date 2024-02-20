@@ -1,0 +1,15 @@
+/Users/aniket/Projects/reverseno/reverseno/bin/Debug/net7.0/reverseno
+/Users/aniket/Projects/reverseno/reverseno/bin/Debug/net7.0/reverseno.deps.json
+/Users/aniket/Projects/reverseno/reverseno/bin/Debug/net7.0/reverseno.runtimeconfig.json
+/Users/aniket/Projects/reverseno/reverseno/bin/Debug/net7.0/reverseno.dll
+/Users/aniket/Projects/reverseno/reverseno/bin/Debug/net7.0/reverseno.pdb
+/Users/aniket/Projects/reverseno/reverseno/obj/Debug/net7.0/reverseno.csproj.AssemblyReference.cache
+/Users/aniket/Projects/reverseno/reverseno/obj/Debug/net7.0/reverseno.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/reverseno/reverseno/obj/Debug/net7.0/reverseno.AssemblyInfoInputs.cache
+/Users/aniket/Projects/reverseno/reverseno/obj/Debug/net7.0/reverseno.AssemblyInfo.cs
+/Users/aniket/Projects/reverseno/reverseno/obj/Debug/net7.0/reverseno.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/reverseno/reverseno/obj/Debug/net7.0/reverseno.dll
+/Users/aniket/Projects/reverseno/reverseno/obj/Debug/net7.0/refint/reverseno.dll
+/Users/aniket/Projects/reverseno/reverseno/obj/Debug/net7.0/reverseno.pdb
+/Users/aniket/Projects/reverseno/reverseno/obj/Debug/net7.0/reverseno.genruntimeconfig.cache
+/Users/aniket/Projects/reverseno/reverseno/obj/Debug/net7.0/ref/reverseno.dll

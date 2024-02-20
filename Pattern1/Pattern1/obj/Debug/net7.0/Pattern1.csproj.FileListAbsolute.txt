@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Pattern1/Pattern1/bin/Debug/net7.0/Pattern1
+/Users/aniket/Projects/Pattern1/Pattern1/bin/Debug/net7.0/Pattern1.deps.json
+/Users/aniket/Projects/Pattern1/Pattern1/bin/Debug/net7.0/Pattern1.runtimeconfig.json
+/Users/aniket/Projects/Pattern1/Pattern1/bin/Debug/net7.0/Pattern1.dll
+/Users/aniket/Projects/Pattern1/Pattern1/bin/Debug/net7.0/Pattern1.pdb
+/Users/aniket/Projects/Pattern1/Pattern1/obj/Debug/net7.0/Pattern1.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Pattern1/Pattern1/obj/Debug/net7.0/Pattern1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Pattern1/Pattern1/obj/Debug/net7.0/Pattern1.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Pattern1/Pattern1/obj/Debug/net7.0/Pattern1.AssemblyInfo.cs
+/Users/aniket/Projects/Pattern1/Pattern1/obj/Debug/net7.0/Pattern1.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Pattern1/Pattern1/obj/Debug/net7.0/Pattern1.dll
+/Users/aniket/Projects/Pattern1/Pattern1/obj/Debug/net7.0/refint/Pattern1.dll
+/Users/aniket/Projects/Pattern1/Pattern1/obj/Debug/net7.0/Pattern1.pdb
+/Users/aniket/Projects/Pattern1/Pattern1/obj/Debug/net7.0/Pattern1.genruntimeconfig.cache
+/Users/aniket/Projects/Pattern1/Pattern1/obj/Debug/net7.0/ref/Pattern1.dll

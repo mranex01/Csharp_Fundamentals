@@ -1,0 +1,15 @@
+/Users/aniket/Projects/List_Demo/List_Demo/bin/Debug/net7.0/List_Demo
+/Users/aniket/Projects/List_Demo/List_Demo/bin/Debug/net7.0/List_Demo.deps.json
+/Users/aniket/Projects/List_Demo/List_Demo/bin/Debug/net7.0/List_Demo.runtimeconfig.json
+/Users/aniket/Projects/List_Demo/List_Demo/bin/Debug/net7.0/List_Demo.dll
+/Users/aniket/Projects/List_Demo/List_Demo/bin/Debug/net7.0/List_Demo.pdb
+/Users/aniket/Projects/List_Demo/List_Demo/obj/Debug/net7.0/List_Demo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/List_Demo/List_Demo/obj/Debug/net7.0/List_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/List_Demo/List_Demo/obj/Debug/net7.0/List_Demo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/List_Demo/List_Demo/obj/Debug/net7.0/List_Demo.AssemblyInfo.cs
+/Users/aniket/Projects/List_Demo/List_Demo/obj/Debug/net7.0/List_Demo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/List_Demo/List_Demo/obj/Debug/net7.0/List_Demo.dll
+/Users/aniket/Projects/List_Demo/List_Demo/obj/Debug/net7.0/refint/List_Demo.dll
+/Users/aniket/Projects/List_Demo/List_Demo/obj/Debug/net7.0/List_Demo.pdb
+/Users/aniket/Projects/List_Demo/List_Demo/obj/Debug/net7.0/List_Demo.genruntimeconfig.cache
+/Users/aniket/Projects/List_Demo/List_Demo/obj/Debug/net7.0/ref/List_Demo.dll

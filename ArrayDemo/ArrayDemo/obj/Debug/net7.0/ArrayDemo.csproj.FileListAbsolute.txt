@@ -1,0 +1,15 @@
+/Users/aniket/Projects/ArrayDemo/ArrayDemo/bin/Debug/net7.0/ArrayDemo
+/Users/aniket/Projects/ArrayDemo/ArrayDemo/bin/Debug/net7.0/ArrayDemo.deps.json
+/Users/aniket/Projects/ArrayDemo/ArrayDemo/bin/Debug/net7.0/ArrayDemo.runtimeconfig.json
+/Users/aniket/Projects/ArrayDemo/ArrayDemo/bin/Debug/net7.0/ArrayDemo.dll
+/Users/aniket/Projects/ArrayDemo/ArrayDemo/bin/Debug/net7.0/ArrayDemo.pdb
+/Users/aniket/Projects/ArrayDemo/ArrayDemo/obj/Debug/net7.0/ArrayDemo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/ArrayDemo/ArrayDemo/obj/Debug/net7.0/ArrayDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/ArrayDemo/ArrayDemo/obj/Debug/net7.0/ArrayDemo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/ArrayDemo/ArrayDemo/obj/Debug/net7.0/ArrayDemo.AssemblyInfo.cs
+/Users/aniket/Projects/ArrayDemo/ArrayDemo/obj/Debug/net7.0/ArrayDemo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/ArrayDemo/ArrayDemo/obj/Debug/net7.0/ArrayDemo.dll
+/Users/aniket/Projects/ArrayDemo/ArrayDemo/obj/Debug/net7.0/refint/ArrayDemo.dll
+/Users/aniket/Projects/ArrayDemo/ArrayDemo/obj/Debug/net7.0/ArrayDemo.pdb
+/Users/aniket/Projects/ArrayDemo/ArrayDemo/obj/Debug/net7.0/ArrayDemo.genruntimeconfig.cache
+/Users/aniket/Projects/ArrayDemo/ArrayDemo/obj/Debug/net7.0/ref/ArrayDemo.dll

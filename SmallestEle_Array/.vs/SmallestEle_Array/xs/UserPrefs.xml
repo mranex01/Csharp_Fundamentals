@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8C50277D-739E-484A-B090-32FED981E603}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Sum_Array/Sum_Array/Program.cs">
+    <Files>
+      <File FileName="SmallestEle_Array/Program.cs" Line="15" Column="59" />
+      <File FileName="../Sum_Array/Sum_Array/Program.cs" Line="14" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SmallestEle_Array" expanded="True">
+            <Node name="SmallestEle_Array" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SmallestEle__Array PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

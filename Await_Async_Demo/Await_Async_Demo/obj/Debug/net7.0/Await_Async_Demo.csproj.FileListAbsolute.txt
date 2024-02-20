@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Await_Async_Demo/Await_Async_Demo/bin/Debug/net7.0/Await_Async_Demo
+/Users/aniket/Projects/Await_Async_Demo/Await_Async_Demo/bin/Debug/net7.0/Await_Async_Demo.deps.json
+/Users/aniket/Projects/Await_Async_Demo/Await_Async_Demo/bin/Debug/net7.0/Await_Async_Demo.runtimeconfig.json
+/Users/aniket/Projects/Await_Async_Demo/Await_Async_Demo/bin/Debug/net7.0/Await_Async_Demo.dll
+/Users/aniket/Projects/Await_Async_Demo/Await_Async_Demo/bin/Debug/net7.0/Await_Async_Demo.pdb
+/Users/aniket/Projects/Await_Async_Demo/Await_Async_Demo/obj/Debug/net7.0/Await_Async_Demo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Await_Async_Demo/Await_Async_Demo/obj/Debug/net7.0/Await_Async_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Await_Async_Demo/Await_Async_Demo/obj/Debug/net7.0/Await_Async_Demo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Await_Async_Demo/Await_Async_Demo/obj/Debug/net7.0/Await_Async_Demo.AssemblyInfo.cs
+/Users/aniket/Projects/Await_Async_Demo/Await_Async_Demo/obj/Debug/net7.0/Await_Async_Demo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Await_Async_Demo/Await_Async_Demo/obj/Debug/net7.0/Await_Async_Demo.dll
+/Users/aniket/Projects/Await_Async_Demo/Await_Async_Demo/obj/Debug/net7.0/refint/Await_Async_Demo.dll
+/Users/aniket/Projects/Await_Async_Demo/Await_Async_Demo/obj/Debug/net7.0/Await_Async_Demo.pdb
+/Users/aniket/Projects/Await_Async_Demo/Await_Async_Demo/obj/Debug/net7.0/Await_Async_Demo.genruntimeconfig.cache
+/Users/aniket/Projects/Await_Async_Demo/Await_Async_Demo/obj/Debug/net7.0/ref/Await_Async_Demo.dll

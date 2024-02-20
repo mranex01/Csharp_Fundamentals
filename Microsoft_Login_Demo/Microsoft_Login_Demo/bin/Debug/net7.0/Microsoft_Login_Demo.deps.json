@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Microsoft_Login_Demo/1.0.0": {
+        "runtime": {
+          "Microsoft_Login_Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft_Login_Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

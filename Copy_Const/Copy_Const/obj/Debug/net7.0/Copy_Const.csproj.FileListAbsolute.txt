@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Copy_Const/Copy_Const/bin/Debug/net7.0/Copy_Const
+/Users/aniket/Projects/Copy_Const/Copy_Const/bin/Debug/net7.0/Copy_Const.deps.json
+/Users/aniket/Projects/Copy_Const/Copy_Const/bin/Debug/net7.0/Copy_Const.runtimeconfig.json
+/Users/aniket/Projects/Copy_Const/Copy_Const/bin/Debug/net7.0/Copy_Const.dll
+/Users/aniket/Projects/Copy_Const/Copy_Const/bin/Debug/net7.0/Copy_Const.pdb
+/Users/aniket/Projects/Copy_Const/Copy_Const/obj/Debug/net7.0/Copy_Const.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Copy_Const/Copy_Const/obj/Debug/net7.0/Copy_Const.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Copy_Const/Copy_Const/obj/Debug/net7.0/Copy_Const.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Copy_Const/Copy_Const/obj/Debug/net7.0/Copy_Const.AssemblyInfo.cs
+/Users/aniket/Projects/Copy_Const/Copy_Const/obj/Debug/net7.0/Copy_Const.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Copy_Const/Copy_Const/obj/Debug/net7.0/Copy_Const.dll
+/Users/aniket/Projects/Copy_Const/Copy_Const/obj/Debug/net7.0/refint/Copy_Const.dll
+/Users/aniket/Projects/Copy_Const/Copy_Const/obj/Debug/net7.0/Copy_Const.pdb
+/Users/aniket/Projects/Copy_Const/Copy_Const/obj/Debug/net7.0/Copy_Const.genruntimeconfig.cache
+/Users/aniket/Projects/Copy_Const/Copy_Const/obj/Debug/net7.0/ref/Copy_Const.dll

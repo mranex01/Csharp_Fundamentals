@@ -1,0 +1,15 @@
+/Users/aniket/Projects/aniket/aniket/bin/Debug/net7.0/aniket
+/Users/aniket/Projects/aniket/aniket/bin/Debug/net7.0/aniket.deps.json
+/Users/aniket/Projects/aniket/aniket/bin/Debug/net7.0/aniket.runtimeconfig.json
+/Users/aniket/Projects/aniket/aniket/bin/Debug/net7.0/aniket.dll
+/Users/aniket/Projects/aniket/aniket/bin/Debug/net7.0/aniket.pdb
+/Users/aniket/Projects/aniket/aniket/obj/Debug/net7.0/aniket.csproj.AssemblyReference.cache
+/Users/aniket/Projects/aniket/aniket/obj/Debug/net7.0/aniket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/aniket/aniket/obj/Debug/net7.0/aniket.AssemblyInfoInputs.cache
+/Users/aniket/Projects/aniket/aniket/obj/Debug/net7.0/aniket.AssemblyInfo.cs
+/Users/aniket/Projects/aniket/aniket/obj/Debug/net7.0/aniket.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/aniket/aniket/obj/Debug/net7.0/aniket.dll
+/Users/aniket/Projects/aniket/aniket/obj/Debug/net7.0/refint/aniket.dll
+/Users/aniket/Projects/aniket/aniket/obj/Debug/net7.0/aniket.pdb
+/Users/aniket/Projects/aniket/aniket/obj/Debug/net7.0/aniket.genruntimeconfig.cache
+/Users/aniket/Projects/aniket/aniket/obj/Debug/net7.0/ref/aniket.dll

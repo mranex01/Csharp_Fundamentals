@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Interface_Inheritance/Interface_Inheritance/bin/Debug/net7.0/Interface_Inheritance
+/Users/aniket/Projects/Interface_Inheritance/Interface_Inheritance/bin/Debug/net7.0/Interface_Inheritance.deps.json
+/Users/aniket/Projects/Interface_Inheritance/Interface_Inheritance/bin/Debug/net7.0/Interface_Inheritance.runtimeconfig.json
+/Users/aniket/Projects/Interface_Inheritance/Interface_Inheritance/bin/Debug/net7.0/Interface_Inheritance.dll
+/Users/aniket/Projects/Interface_Inheritance/Interface_Inheritance/bin/Debug/net7.0/Interface_Inheritance.pdb
+/Users/aniket/Projects/Interface_Inheritance/Interface_Inheritance/obj/Debug/net7.0/Interface_Inheritance.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Interface_Inheritance/Interface_Inheritance/obj/Debug/net7.0/Interface_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Interface_Inheritance/Interface_Inheritance/obj/Debug/net7.0/Interface_Inheritance.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Interface_Inheritance/Interface_Inheritance/obj/Debug/net7.0/Interface_Inheritance.AssemblyInfo.cs
+/Users/aniket/Projects/Interface_Inheritance/Interface_Inheritance/obj/Debug/net7.0/Interface_Inheritance.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Interface_Inheritance/Interface_Inheritance/obj/Debug/net7.0/Interface_Inheritance.dll
+/Users/aniket/Projects/Interface_Inheritance/Interface_Inheritance/obj/Debug/net7.0/refint/Interface_Inheritance.dll
+/Users/aniket/Projects/Interface_Inheritance/Interface_Inheritance/obj/Debug/net7.0/Interface_Inheritance.pdb
+/Users/aniket/Projects/Interface_Inheritance/Interface_Inheritance/obj/Debug/net7.0/Interface_Inheritance.genruntimeconfig.cache
+/Users/aniket/Projects/Interface_Inheritance/Interface_Inheritance/obj/Debug/net7.0/ref/Interface_Inheritance.dll

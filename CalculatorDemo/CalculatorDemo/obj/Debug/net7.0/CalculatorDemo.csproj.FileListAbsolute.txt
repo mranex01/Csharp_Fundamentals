@@ -1,0 +1,15 @@
+/Users/aniket/Projects/CalculatorDemo/CalculatorDemo/bin/Debug/net7.0/CalculatorDemo
+/Users/aniket/Projects/CalculatorDemo/CalculatorDemo/bin/Debug/net7.0/CalculatorDemo.deps.json
+/Users/aniket/Projects/CalculatorDemo/CalculatorDemo/bin/Debug/net7.0/CalculatorDemo.runtimeconfig.json
+/Users/aniket/Projects/CalculatorDemo/CalculatorDemo/bin/Debug/net7.0/CalculatorDemo.dll
+/Users/aniket/Projects/CalculatorDemo/CalculatorDemo/bin/Debug/net7.0/CalculatorDemo.pdb
+/Users/aniket/Projects/CalculatorDemo/CalculatorDemo/obj/Debug/net7.0/CalculatorDemo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/CalculatorDemo/CalculatorDemo/obj/Debug/net7.0/CalculatorDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/CalculatorDemo/CalculatorDemo/obj/Debug/net7.0/CalculatorDemo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/CalculatorDemo/CalculatorDemo/obj/Debug/net7.0/CalculatorDemo.AssemblyInfo.cs
+/Users/aniket/Projects/CalculatorDemo/CalculatorDemo/obj/Debug/net7.0/CalculatorDemo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/CalculatorDemo/CalculatorDemo/obj/Debug/net7.0/CalculatorDemo.dll
+/Users/aniket/Projects/CalculatorDemo/CalculatorDemo/obj/Debug/net7.0/refint/CalculatorDemo.dll
+/Users/aniket/Projects/CalculatorDemo/CalculatorDemo/obj/Debug/net7.0/CalculatorDemo.pdb
+/Users/aniket/Projects/CalculatorDemo/CalculatorDemo/obj/Debug/net7.0/CalculatorDemo.genruntimeconfig.cache
+/Users/aniket/Projects/CalculatorDemo/CalculatorDemo/obj/Debug/net7.0/ref/CalculatorDemo.dll

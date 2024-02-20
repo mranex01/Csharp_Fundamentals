@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Exception_Index/Exception_Index/bin/Debug/net7.0/Exception_Index
+/Users/aniket/Projects/Exception_Index/Exception_Index/bin/Debug/net7.0/Exception_Index.deps.json
+/Users/aniket/Projects/Exception_Index/Exception_Index/bin/Debug/net7.0/Exception_Index.runtimeconfig.json
+/Users/aniket/Projects/Exception_Index/Exception_Index/bin/Debug/net7.0/Exception_Index.dll
+/Users/aniket/Projects/Exception_Index/Exception_Index/bin/Debug/net7.0/Exception_Index.pdb
+/Users/aniket/Projects/Exception_Index/Exception_Index/obj/Debug/net7.0/Exception_Index.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Exception_Index/Exception_Index/obj/Debug/net7.0/Exception_Index.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Exception_Index/Exception_Index/obj/Debug/net7.0/Exception_Index.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Exception_Index/Exception_Index/obj/Debug/net7.0/Exception_Index.AssemblyInfo.cs
+/Users/aniket/Projects/Exception_Index/Exception_Index/obj/Debug/net7.0/Exception_Index.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Exception_Index/Exception_Index/obj/Debug/net7.0/Exception_Index.dll
+/Users/aniket/Projects/Exception_Index/Exception_Index/obj/Debug/net7.0/refint/Exception_Index.dll
+/Users/aniket/Projects/Exception_Index/Exception_Index/obj/Debug/net7.0/Exception_Index.pdb
+/Users/aniket/Projects/Exception_Index/Exception_Index/obj/Debug/net7.0/Exception_Index.genruntimeconfig.cache
+/Users/aniket/Projects/Exception_Index/Exception_Index/obj/Debug/net7.0/ref/Exception_Index.dll

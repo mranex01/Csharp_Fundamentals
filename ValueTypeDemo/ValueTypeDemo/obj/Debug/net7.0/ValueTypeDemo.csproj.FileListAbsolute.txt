@@ -1,0 +1,15 @@
+/Users/aniket/Projects/ValueTypeDemo/ValueTypeDemo/bin/Debug/net7.0/ValueTypeDemo
+/Users/aniket/Projects/ValueTypeDemo/ValueTypeDemo/bin/Debug/net7.0/ValueTypeDemo.deps.json
+/Users/aniket/Projects/ValueTypeDemo/ValueTypeDemo/bin/Debug/net7.0/ValueTypeDemo.runtimeconfig.json
+/Users/aniket/Projects/ValueTypeDemo/ValueTypeDemo/bin/Debug/net7.0/ValueTypeDemo.dll
+/Users/aniket/Projects/ValueTypeDemo/ValueTypeDemo/bin/Debug/net7.0/ValueTypeDemo.pdb
+/Users/aniket/Projects/ValueTypeDemo/ValueTypeDemo/obj/Debug/net7.0/ValueTypeDemo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/ValueTypeDemo/ValueTypeDemo/obj/Debug/net7.0/ValueTypeDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/ValueTypeDemo/ValueTypeDemo/obj/Debug/net7.0/ValueTypeDemo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/ValueTypeDemo/ValueTypeDemo/obj/Debug/net7.0/ValueTypeDemo.AssemblyInfo.cs
+/Users/aniket/Projects/ValueTypeDemo/ValueTypeDemo/obj/Debug/net7.0/ValueTypeDemo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/ValueTypeDemo/ValueTypeDemo/obj/Debug/net7.0/ValueTypeDemo.dll
+/Users/aniket/Projects/ValueTypeDemo/ValueTypeDemo/obj/Debug/net7.0/refint/ValueTypeDemo.dll
+/Users/aniket/Projects/ValueTypeDemo/ValueTypeDemo/obj/Debug/net7.0/ValueTypeDemo.pdb
+/Users/aniket/Projects/ValueTypeDemo/ValueTypeDemo/obj/Debug/net7.0/ValueTypeDemo.genruntimeconfig.cache
+/Users/aniket/Projects/ValueTypeDemo/ValueTypeDemo/obj/Debug/net7.0/ref/ValueTypeDemo.dll

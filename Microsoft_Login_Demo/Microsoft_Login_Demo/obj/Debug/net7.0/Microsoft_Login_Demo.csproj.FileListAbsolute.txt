@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Microsoft_Login_Demo/Microsoft_Login_Demo/bin/Debug/net7.0/Microsoft_Login_Demo
+/Users/aniket/Projects/Microsoft_Login_Demo/Microsoft_Login_Demo/bin/Debug/net7.0/Microsoft_Login_Demo.deps.json
+/Users/aniket/Projects/Microsoft_Login_Demo/Microsoft_Login_Demo/bin/Debug/net7.0/Microsoft_Login_Demo.runtimeconfig.json
+/Users/aniket/Projects/Microsoft_Login_Demo/Microsoft_Login_Demo/bin/Debug/net7.0/Microsoft_Login_Demo.dll
+/Users/aniket/Projects/Microsoft_Login_Demo/Microsoft_Login_Demo/bin/Debug/net7.0/Microsoft_Login_Demo.pdb
+/Users/aniket/Projects/Microsoft_Login_Demo/Microsoft_Login_Demo/obj/Debug/net7.0/Microsoft_Login_Demo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Microsoft_Login_Demo/Microsoft_Login_Demo/obj/Debug/net7.0/Microsoft_Login_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Microsoft_Login_Demo/Microsoft_Login_Demo/obj/Debug/net7.0/Microsoft_Login_Demo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Microsoft_Login_Demo/Microsoft_Login_Demo/obj/Debug/net7.0/Microsoft_Login_Demo.AssemblyInfo.cs
+/Users/aniket/Projects/Microsoft_Login_Demo/Microsoft_Login_Demo/obj/Debug/net7.0/Microsoft_Login_Demo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Microsoft_Login_Demo/Microsoft_Login_Demo/obj/Debug/net7.0/Microsoft_Login_Demo.dll
+/Users/aniket/Projects/Microsoft_Login_Demo/Microsoft_Login_Demo/obj/Debug/net7.0/refint/Microsoft_Login_Demo.dll
+/Users/aniket/Projects/Microsoft_Login_Demo/Microsoft_Login_Demo/obj/Debug/net7.0/Microsoft_Login_Demo.pdb
+/Users/aniket/Projects/Microsoft_Login_Demo/Microsoft_Login_Demo/obj/Debug/net7.0/Microsoft_Login_Demo.genruntimeconfig.cache
+/Users/aniket/Projects/Microsoft_Login_Demo/Microsoft_Login_Demo/obj/Debug/net7.0/ref/Microsoft_Login_Demo.dll

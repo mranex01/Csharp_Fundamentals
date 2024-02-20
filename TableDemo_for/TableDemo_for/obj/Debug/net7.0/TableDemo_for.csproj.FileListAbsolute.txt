@@ -1,0 +1,15 @@
+/Users/aniket/Projects/TableDemo_for/TableDemo_for/bin/Debug/net7.0/TableDemo_for
+/Users/aniket/Projects/TableDemo_for/TableDemo_for/bin/Debug/net7.0/TableDemo_for.deps.json
+/Users/aniket/Projects/TableDemo_for/TableDemo_for/bin/Debug/net7.0/TableDemo_for.runtimeconfig.json
+/Users/aniket/Projects/TableDemo_for/TableDemo_for/bin/Debug/net7.0/TableDemo_for.dll
+/Users/aniket/Projects/TableDemo_for/TableDemo_for/bin/Debug/net7.0/TableDemo_for.pdb
+/Users/aniket/Projects/TableDemo_for/TableDemo_for/obj/Debug/net7.0/TableDemo_for.csproj.AssemblyReference.cache
+/Users/aniket/Projects/TableDemo_for/TableDemo_for/obj/Debug/net7.0/TableDemo_for.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/TableDemo_for/TableDemo_for/obj/Debug/net7.0/TableDemo_for.AssemblyInfoInputs.cache
+/Users/aniket/Projects/TableDemo_for/TableDemo_for/obj/Debug/net7.0/TableDemo_for.AssemblyInfo.cs
+/Users/aniket/Projects/TableDemo_for/TableDemo_for/obj/Debug/net7.0/TableDemo_for.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/TableDemo_for/TableDemo_for/obj/Debug/net7.0/TableDemo_for.dll
+/Users/aniket/Projects/TableDemo_for/TableDemo_for/obj/Debug/net7.0/refint/TableDemo_for.dll
+/Users/aniket/Projects/TableDemo_for/TableDemo_for/obj/Debug/net7.0/TableDemo_for.pdb
+/Users/aniket/Projects/TableDemo_for/TableDemo_for/obj/Debug/net7.0/TableDemo_for.genruntimeconfig.cache
+/Users/aniket/Projects/TableDemo_for/TableDemo_for/obj/Debug/net7.0/ref/TableDemo_for.dll

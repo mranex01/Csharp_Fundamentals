@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B432A202-5BF1-44AB-B9C4-DCCF7FE76713}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReadData_Demo/Program.cs">
+    <Files>
+      <File FileName="ReadData_Demo/Program.cs" Line="8" Column="59" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ReadData_Demo" expanded="True">
+            <Node name="ReadData_Demo" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ReadData__Demo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

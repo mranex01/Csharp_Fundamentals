@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Indexer_Demo/Indexer_Demo/bin/Debug/net7.0/Indexer_Demo
+/Users/aniket/Projects/Indexer_Demo/Indexer_Demo/bin/Debug/net7.0/Indexer_Demo.deps.json
+/Users/aniket/Projects/Indexer_Demo/Indexer_Demo/bin/Debug/net7.0/Indexer_Demo.runtimeconfig.json
+/Users/aniket/Projects/Indexer_Demo/Indexer_Demo/bin/Debug/net7.0/Indexer_Demo.dll
+/Users/aniket/Projects/Indexer_Demo/Indexer_Demo/bin/Debug/net7.0/Indexer_Demo.pdb
+/Users/aniket/Projects/Indexer_Demo/Indexer_Demo/obj/Debug/net7.0/Indexer_Demo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Indexer_Demo/Indexer_Demo/obj/Debug/net7.0/Indexer_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Indexer_Demo/Indexer_Demo/obj/Debug/net7.0/Indexer_Demo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Indexer_Demo/Indexer_Demo/obj/Debug/net7.0/Indexer_Demo.AssemblyInfo.cs
+/Users/aniket/Projects/Indexer_Demo/Indexer_Demo/obj/Debug/net7.0/Indexer_Demo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Indexer_Demo/Indexer_Demo/obj/Debug/net7.0/Indexer_Demo.dll
+/Users/aniket/Projects/Indexer_Demo/Indexer_Demo/obj/Debug/net7.0/refint/Indexer_Demo.dll
+/Users/aniket/Projects/Indexer_Demo/Indexer_Demo/obj/Debug/net7.0/Indexer_Demo.pdb
+/Users/aniket/Projects/Indexer_Demo/Indexer_Demo/obj/Debug/net7.0/Indexer_Demo.genruntimeconfig.cache
+/Users/aniket/Projects/Indexer_Demo/Indexer_Demo/obj/Debug/net7.0/ref/Indexer_Demo.dll

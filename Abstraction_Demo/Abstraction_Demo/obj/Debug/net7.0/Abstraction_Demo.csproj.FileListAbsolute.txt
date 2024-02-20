@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Abstraction_Demo/Abstraction_Demo/bin/Debug/net7.0/Abstraction_Demo
+/Users/aniket/Projects/Abstraction_Demo/Abstraction_Demo/bin/Debug/net7.0/Abstraction_Demo.deps.json
+/Users/aniket/Projects/Abstraction_Demo/Abstraction_Demo/bin/Debug/net7.0/Abstraction_Demo.runtimeconfig.json
+/Users/aniket/Projects/Abstraction_Demo/Abstraction_Demo/bin/Debug/net7.0/Abstraction_Demo.dll
+/Users/aniket/Projects/Abstraction_Demo/Abstraction_Demo/bin/Debug/net7.0/Abstraction_Demo.pdb
+/Users/aniket/Projects/Abstraction_Demo/Abstraction_Demo/obj/Debug/net7.0/Abstraction_Demo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Abstraction_Demo/Abstraction_Demo/obj/Debug/net7.0/Abstraction_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Abstraction_Demo/Abstraction_Demo/obj/Debug/net7.0/Abstraction_Demo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Abstraction_Demo/Abstraction_Demo/obj/Debug/net7.0/Abstraction_Demo.AssemblyInfo.cs
+/Users/aniket/Projects/Abstraction_Demo/Abstraction_Demo/obj/Debug/net7.0/Abstraction_Demo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Abstraction_Demo/Abstraction_Demo/obj/Debug/net7.0/Abstraction_Demo.dll
+/Users/aniket/Projects/Abstraction_Demo/Abstraction_Demo/obj/Debug/net7.0/refint/Abstraction_Demo.dll
+/Users/aniket/Projects/Abstraction_Demo/Abstraction_Demo/obj/Debug/net7.0/Abstraction_Demo.pdb
+/Users/aniket/Projects/Abstraction_Demo/Abstraction_Demo/obj/Debug/net7.0/Abstraction_Demo.genruntimeconfig.cache
+/Users/aniket/Projects/Abstraction_Demo/Abstraction_Demo/obj/Debug/net7.0/ref/Abstraction_Demo.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Nestes_If_Demo/1.0.0": {
+        "runtime": {
+          "Nestes_If_Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nestes_If_Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

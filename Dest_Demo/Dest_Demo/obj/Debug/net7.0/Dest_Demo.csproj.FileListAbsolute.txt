@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Dest_Demo/Dest_Demo/bin/Debug/net7.0/Dest_Demo
+/Users/aniket/Projects/Dest_Demo/Dest_Demo/bin/Debug/net7.0/Dest_Demo.deps.json
+/Users/aniket/Projects/Dest_Demo/Dest_Demo/bin/Debug/net7.0/Dest_Demo.runtimeconfig.json
+/Users/aniket/Projects/Dest_Demo/Dest_Demo/bin/Debug/net7.0/Dest_Demo.dll
+/Users/aniket/Projects/Dest_Demo/Dest_Demo/bin/Debug/net7.0/Dest_Demo.pdb
+/Users/aniket/Projects/Dest_Demo/Dest_Demo/obj/Debug/net7.0/Dest_Demo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Dest_Demo/Dest_Demo/obj/Debug/net7.0/Dest_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Dest_Demo/Dest_Demo/obj/Debug/net7.0/Dest_Demo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Dest_Demo/Dest_Demo/obj/Debug/net7.0/Dest_Demo.AssemblyInfo.cs
+/Users/aniket/Projects/Dest_Demo/Dest_Demo/obj/Debug/net7.0/Dest_Demo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Dest_Demo/Dest_Demo/obj/Debug/net7.0/Dest_Demo.dll
+/Users/aniket/Projects/Dest_Demo/Dest_Demo/obj/Debug/net7.0/refint/Dest_Demo.dll
+/Users/aniket/Projects/Dest_Demo/Dest_Demo/obj/Debug/net7.0/Dest_Demo.pdb
+/Users/aniket/Projects/Dest_Demo/Dest_Demo/obj/Debug/net7.0/Dest_Demo.genruntimeconfig.cache
+/Users/aniket/Projects/Dest_Demo/Dest_Demo/obj/Debug/net7.0/ref/Dest_Demo.dll

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{21C4E224-444A-46D7-998D-5CBFCC3B5804}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ex" expanded="True">
+            <Node name="ex" expanded="True">
+              <Node name="Dependencies" selected="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ex FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

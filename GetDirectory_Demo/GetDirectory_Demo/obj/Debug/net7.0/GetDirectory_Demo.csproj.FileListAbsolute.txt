@@ -1,0 +1,15 @@
+/Users/aniket/Projects/GetDirectory_Demo/GetDirectory_Demo/bin/Debug/net7.0/GetDirectory_Demo
+/Users/aniket/Projects/GetDirectory_Demo/GetDirectory_Demo/bin/Debug/net7.0/GetDirectory_Demo.deps.json
+/Users/aniket/Projects/GetDirectory_Demo/GetDirectory_Demo/bin/Debug/net7.0/GetDirectory_Demo.runtimeconfig.json
+/Users/aniket/Projects/GetDirectory_Demo/GetDirectory_Demo/bin/Debug/net7.0/GetDirectory_Demo.dll
+/Users/aniket/Projects/GetDirectory_Demo/GetDirectory_Demo/bin/Debug/net7.0/GetDirectory_Demo.pdb
+/Users/aniket/Projects/GetDirectory_Demo/GetDirectory_Demo/obj/Debug/net7.0/GetDirectory_Demo.csproj.AssemblyReference.cache
+/Users/aniket/Projects/GetDirectory_Demo/GetDirectory_Demo/obj/Debug/net7.0/GetDirectory_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/GetDirectory_Demo/GetDirectory_Demo/obj/Debug/net7.0/GetDirectory_Demo.AssemblyInfoInputs.cache
+/Users/aniket/Projects/GetDirectory_Demo/GetDirectory_Demo/obj/Debug/net7.0/GetDirectory_Demo.AssemblyInfo.cs
+/Users/aniket/Projects/GetDirectory_Demo/GetDirectory_Demo/obj/Debug/net7.0/GetDirectory_Demo.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/GetDirectory_Demo/GetDirectory_Demo/obj/Debug/net7.0/GetDirectory_Demo.dll
+/Users/aniket/Projects/GetDirectory_Demo/GetDirectory_Demo/obj/Debug/net7.0/refint/GetDirectory_Demo.dll
+/Users/aniket/Projects/GetDirectory_Demo/GetDirectory_Demo/obj/Debug/net7.0/GetDirectory_Demo.pdb
+/Users/aniket/Projects/GetDirectory_Demo/GetDirectory_Demo/obj/Debug/net7.0/GetDirectory_Demo.genruntimeconfig.cache
+/Users/aniket/Projects/GetDirectory_Demo/GetDirectory_Demo/obj/Debug/net7.0/ref/GetDirectory_Demo.dll

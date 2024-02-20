@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{77B67E71-2725-4161-8B9F-1510FD6D0780}|Default">
+  <MonoDevelop.Ide.ItemProperties.JumpStatement__Demo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="JumpStatement_Demo/Program.cs">
+    <Files>
+      <File FileName="JumpStatement_Demo/Program.cs" Line="13" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JumpStatement_Demo" expanded="True">
+            <Node name="JumpStatement_Demo" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

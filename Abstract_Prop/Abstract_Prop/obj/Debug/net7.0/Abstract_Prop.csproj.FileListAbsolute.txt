@@ -1,0 +1,15 @@
+/Users/aniket/Projects/Abstract_Prop/Abstract_Prop/bin/Debug/net7.0/Abstract_Prop
+/Users/aniket/Projects/Abstract_Prop/Abstract_Prop/bin/Debug/net7.0/Abstract_Prop.deps.json
+/Users/aniket/Projects/Abstract_Prop/Abstract_Prop/bin/Debug/net7.0/Abstract_Prop.runtimeconfig.json
+/Users/aniket/Projects/Abstract_Prop/Abstract_Prop/bin/Debug/net7.0/Abstract_Prop.dll
+/Users/aniket/Projects/Abstract_Prop/Abstract_Prop/bin/Debug/net7.0/Abstract_Prop.pdb
+/Users/aniket/Projects/Abstract_Prop/Abstract_Prop/obj/Debug/net7.0/Abstract_Prop.csproj.AssemblyReference.cache
+/Users/aniket/Projects/Abstract_Prop/Abstract_Prop/obj/Debug/net7.0/Abstract_Prop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniket/Projects/Abstract_Prop/Abstract_Prop/obj/Debug/net7.0/Abstract_Prop.AssemblyInfoInputs.cache
+/Users/aniket/Projects/Abstract_Prop/Abstract_Prop/obj/Debug/net7.0/Abstract_Prop.AssemblyInfo.cs
+/Users/aniket/Projects/Abstract_Prop/Abstract_Prop/obj/Debug/net7.0/Abstract_Prop.csproj.CoreCompileInputs.cache
+/Users/aniket/Projects/Abstract_Prop/Abstract_Prop/obj/Debug/net7.0/Abstract_Prop.dll
+/Users/aniket/Projects/Abstract_Prop/Abstract_Prop/obj/Debug/net7.0/refint/Abstract_Prop.dll
+/Users/aniket/Projects/Abstract_Prop/Abstract_Prop/obj/Debug/net7.0/Abstract_Prop.pdb
+/Users/aniket/Projects/Abstract_Prop/Abstract_Prop/obj/Debug/net7.0/Abstract_Prop.genruntimeconfig.cache
+/Users/aniket/Projects/Abstract_Prop/Abstract_Prop/obj/Debug/net7.0/ref/Abstract_Prop.dll
